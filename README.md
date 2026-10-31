@@ -1,0 +1,1 @@
+# wild-rift-skin-version
