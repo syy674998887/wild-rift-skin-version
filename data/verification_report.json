@@ -3973,9 +3973,7 @@
       "id": "wr:10018:10",
       "name": "Chromacrash Jinx (Special Edition)",
       "nameZh": "光谱幻影 金克丝",
-      "catalogDate": "2022-12-08",
       "distribution": "Event (China Exclusive)",
-      "reason": "region-unconfirmed",
       "sourceLinks": [
         {
           "label": "Wiki",
@@ -3989,15 +3987,15 @@
           "label": "Wiki 原画",
           "url": "https://wiki.leagueoflegends.com/en-us/File:Jinx_ChromacrashSpecialEditionSkin_WR.jpg"
         }
-      ]
+      ],
+      "catalogDate": "2022-12-08",
+      "reason": "region-unconfirmed"
     },
     {
       "id": "wr:10057:4",
       "name": "Dawnbringer Viego Mythic Chroma",
       "nameZh": "黎明使者 破晓之殇 佛耶戈",
-      "catalogDate": null,
       "distribution": "500 Orange Gemstones (China Exclusive)",
-      "reason": "region-unconfirmed",
       "sourceLinks": [
         {
           "label": "Wiki",
@@ -4015,15 +4013,15 @@
           "label": "Wiki 原画",
           "url": "https://wiki.leagueoflegends.com/en-us/File:Viego_DawnbringerMythicChromaSkin_WR.jpg"
         }
-      ]
+      ],
+      "catalogDate": null,
+      "reason": "region-unconfirmed"
     },
     {
       "id": "wr:10071:14",
       "name": "Dunkmaster Darius Exquisite Edition",
       "nameZh": "湖人神话 德莱厄斯",
-      "catalogDate": null,
       "distribution": "NBA Collab Event 2026 (China Exclusive)",
-      "reason": "region-unconfirmed",
       "sourceLinks": [
         {
           "label": "Wiki",
@@ -4037,15 +4035,15 @@
           "label": "Wiki 原画",
           "url": "https://wiki.leagueoflegends.com/en-us/File:Darius_DunkmasterExquisiteEditionSkin_WR.jpg"
         }
-      ]
+      ],
+      "catalogDate": null,
+      "reason": "region-unconfirmed"
     },
     {
       "id": "wr:10056:12",
       "name": "Dunkmaster Jarvan IV",
       "nameZh": "勇士辉煌 嘉文四世",
-      "catalogDate": null,
       "distribution": "NBA Collab Event 2026 (China Exclusive)",
-      "reason": "region-unconfirmed",
       "sourceLinks": [
         {
           "label": "Wiki",
@@ -4059,15 +4057,15 @@
           "label": "Wiki 原画",
           "url": "https://wiki.leagueoflegends.com/en-us/File:Jarvan_IV_DunkmasterSkin_WR.jpg"
         }
-      ]
+      ],
+      "catalogDate": null,
+      "reason": "region-unconfirmed"
     },
     {
       "id": "wr:10035:5",
       "name": "Dunkmaster Mordekaiser",
       "nameZh": "凯尔特人传奇 莫德凯撒",
-      "catalogDate": null,
       "distribution": "NBA Collab Event 2026 (China Exclusive)",
-      "reason": "region-unconfirmed",
       "sourceLinks": [
         {
           "label": "Wiki",
@@ -4081,15 +4079,15 @@
           "label": "Wiki 原画",
           "url": "https://wiki.leagueoflegends.com/en-us/File:Mordekaiser_DunkmasterSkin_WR.jpg"
         }
-      ]
+      ],
+      "catalogDate": null,
+      "reason": "region-unconfirmed"
     },
     {
       "id": "wr:10079:16",
       "name": "Elf Forest Ashe",
       "nameZh": "仙灵之息：夜之辉 艾希",
-      "catalogDate": "2026-02-16",
       "distribution": "Unknown (China Exclusive)",
-      "reason": "region-unconfirmed",
       "sourceLinks": [
         {
           "label": "Wiki",
@@ -4103,7 +4101,9 @@
           "label": "Wiki 原画",
           "url": "https://wiki.leagueoflegends.com/en-us/File:Ashe_ElfForestSkin_WR.jpg"
         }
-      ]
+      ],
+      "catalogDate": "2026-02-16",
+      "reason": "region-unconfirmed"
     }
   ]
 }
