@@ -6,7 +6,7 @@
 
 [League Skin Version](https://github.com/syy674998887/league-skin-version) 的手游镜像站，沿用相同的核心浏览界面，使用独立的手游数据更新流程。
 
-[GitHub 仓库](https://github.com/syy674998887/wild-rift-skin-version)
+[打开网站](https://syy674998887.github.io/wild-rift-skin-version/) · [GitHub 仓库](https://github.com/syy674998887/wild-rift-skin-version)
 
 本项目是非官方、免费、非商业社区项目，未获得 Riot Games 认可或赞助。
 

@@ -6,7 +6,7 @@ A static archive for browsing League of Legends: Wild Rift skins by internationa
 
 The Wild Rift mirror of [League Skin Version](https://github.com/syy674998887/league-skin-version), with the same core browsing interface and a separate Wild Rift data pipeline.
 
-[GitHub repository](https://github.com/syy674998887/wild-rift-skin-version)
+[Open the archive](https://syy674998887.github.io/wild-rift-skin-version/) · [GitHub repository](https://github.com/syy674998887/wild-rift-skin-version)
 
 This is an unofficial, free, non-commercial community project. It is not endorsed or sponsored by Riot Games.
 
