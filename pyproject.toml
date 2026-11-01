@@ -1,0 +1,22 @@
+[project]
+name = "wild-rift-skin-version"
+version = "0.1.0"
+description = "Maintain Wild Rift skin sources, release patches and static archive"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+skin-update = "wild_rift_skin_version.updater:main"
+site-build = "wild_rift_skin_version.site_builder:main"
+
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/wild_rift_skin_version"]
+
+[tool.uv]
+package = true

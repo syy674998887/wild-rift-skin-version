@@ -1,0 +1,4109 @@
+{
+  "total": 96,
+  "byReason": {
+    "date-conflict": 12,
+    "early-history": 83,
+    "missing-patch-record": 1
+  },
+  "skins": [
+    {
+      "id": "wr:10040:2",
+      "name": "Angler Jax",
+      "nameZh": "宗师级钓鱼训练师 贾克斯",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/jax/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jax_AnglerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10038:4",
+      "name": "Arcade Ahri",
+      "nameZh": "电玩女神 阿狸",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/ahri/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Ahri_ArcadeSkin_WR.png"
+        }
+      ]
+    },
+    {
+      "id": "wr:10065:3",
+      "name": "Archduke Nasus",
+      "nameZh": "单身贵族 内瑟斯",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/nasus/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Nasus_ArchdukeSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10010:1",
+      "name": "Arclight Vayne",
+      "nameZh": "苍穹之光 薇恩",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/vayne/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Vayne_ArclightSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10093:1",
+      "name": "Arctic Ops Varus",
+      "nameZh": "白色死神 韦鲁斯",
+      "releaseDate": "2020-10-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/varus/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Varus_ArcticOpsSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10023:2",
+      "name": "Ashen Lord Aurelion Sol",
+      "nameZh": "灰烬领主 奥瑞利安·索尔",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/aurelion-sol/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Aurelion_Sol_AshenLordSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10070:1",
+      "name": "Assassin Master Yi",
+      "nameZh": "暗影 易",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/master-yi/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Master_Yi_AssassinSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10096:3",
+      "name": "Augmented Singed",
+      "nameZh": "炼金狂士 辛吉德",
+      "releaseDate": "2020-09-24",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/singed/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Singed_AugmentedSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10033:2",
+      "name": "Battle Boss Blitzcrank",
+      "nameZh": "战场之王 布里茨",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/blitzcrank/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Blitzcrank_BattleBossSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10037:5",
+      "name": "Battle Boss Yasuo",
+      "nameZh": "战场之王 亚索",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/yasuo/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Yasuo_BattleBossSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10033:3",
+      "name": "Boom Boom Blitzcrank",
+      "nameZh": "擂台皇帝 布里茨",
+      "releaseDate": "2020-09-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/blitzcrank/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Blitzcrank_BoomBoomSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10106:1",
+      "name": "Brolaf",
+      "nameZh": "铁哥们儿 奥拉夫",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/olaf/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Olaf_BrolafSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10066:5",
+      "name": "Captain Fortune",
+      "nameZh": "女船长 厄运小姐",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/miss-fortune/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Miss_Fortune_CaptainFortuneSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10056:2",
+      "name": "Commando Jarvan IV",
+      "nameZh": "孤胆英豪 嘉文四世",
+      "releaseDate": "2020-09-17",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/jarvan-iv/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jarvan_IV_CommandoSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10062:2",
+      "name": "Corporate Mundo",
+      "nameZh": "律政大亨 蒙多医生",
+      "releaseDate": "2020-09-24",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "2.6",
+          "date": "2021-12-02",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV2.6&oldid=4018528",
+          "revision": 4018528,
+          "title": "WR:V2.6",
+          "kind": "wiki",
+          "announcementDate": "2021-12-02"
+        },
+        {
+          "version": "2.6",
+          "date": "2021-12-02",
+          "announcementDate": "2021-12-02",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-2-6/",
+          "title": "Wild Rift Patch Notes 2.6",
+          "kind": "official",
+          "scope": "release",
+          "section": "NEW SKINS",
+          "excerpt": "Corporate Mundo **",
+          "listedReleaseDate": "2021-12-03"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/dr-mundo/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Dr._Mundo_CorporateMundoSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10055:2",
+      "name": "Coven Camille",
+      "nameZh": "魔女 卡蜜尔",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/camille/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Camille_CovenSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10066:4",
+      "name": "Cowgirl Miss Fortune",
+      "nameZh": "西部牛仔 厄运小姐",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/miss-fortune/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Miss_Fortune_CowgirlSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10021:2",
+      "name": "Crime City Braum",
+      "nameZh": "末路管家 布隆",
+      "releaseDate": "2020-09-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/braum/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Braum_CrimeCitySkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10072:1",
+      "name": "Crime City Graves",
+      "nameZh": "末路教父 格雷福斯",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/graves/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Graves_CrimeCitySkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10018:2",
+      "name": "Crime City Jinx",
+      "nameZh": "末路狂花 金克丝",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/jinx/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jinx_CrimeCitySkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10022:4",
+      "name": "Dark Cosmic Jhin",
+      "nameZh": "暗星尊 烬",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/jhin/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jhin_DarkCosmicSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10056:3",
+      "name": "Dark Star Jarvan IV",
+      "nameZh": "暗星 嘉文四世",
+      "releaseDate": "2020-10-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/jarvan-iv/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jarvan_IV_DarkStarSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10012:2",
+      "name": "Dark Star Orianna",
+      "nameZh": "暗星 奥莉安娜",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/orianna/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Orianna_DarkStarSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10049:2",
+      "name": "Darkflame Shyvana",
+      "nameZh": "黯黑魔龙 希瓦娜",
+      "releaseDate": "2020-09-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/shyvana/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Shyvana_DarkflameSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10039:4",
+      "name": "Death Sworn Zed",
+      "nameZh": "死亡誓约 劫",
+      "releaseDate": "2020-10-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/zed/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Zed_DeathSwornSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10098:2",
+      "name": "Debonair Ezreal",
+      "nameZh": "光执事 伊泽瑞尔",
+      "releaseDate": "2020-09-17",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/ezreal/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Ezreal_DebonairSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10050:5",
+      "name": "Debonair Vi",
+      "nameZh": "铁拳执事 蔚",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/vi/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Vi_DebonairSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10050:3",
+      "name": "Demon Vi",
+      "nameZh": "炼狱魔女 蔚",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/vi/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Vi_DemonSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10015:1",
+      "name": "Demonblade Tryndamere",
+      "nameZh": "恶魔之刃 泰达米尔",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/tryndamere/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Tryndamere_DemonbladeSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10021:1",
+      "name": "Dragonslayer Braum",
+      "nameZh": "猎龙勇士 布隆",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/braum/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Braum_DragonslayerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10010:4",
+      "name": "Dragonslayer Vayne",
+      "nameZh": "猎龙勇士 薇恩",
+      "releaseDate": "2020-09-16",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/vayne/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Vayne_DragonslayerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10016:3",
+      "name": "Dragonslayer Xin Zhao",
+      "nameZh": "猎龙勇士 赵信",
+      "releaseDate": "2020-09-16",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/xin-zhao/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Xin_Zhao_DragonslayerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10001:3",
+      "name": "Dreadknight Garen",
+      "nameZh": "死亡骑士 盖伦",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/garen/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Garen_DreadknightSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10070:4",
+      "name": "Eternal Sword Yi",
+      "nameZh": "玉剑传说 无极 易",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/master-yi/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Master_Yi_EternalSwordYiSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10038:3",
+      "name": "Foxfire Ahri",
+      "nameZh": "焰尾妖狐 阿狸",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/ahri/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Ahri_FoxfireSkin_WR.png"
+        }
+      ]
+    },
+    {
+      "id": "wr:10079:3",
+      "name": "Freljord Ashe",
+      "nameZh": "极地女神 艾希",
+      "releaseDate": "2020-09-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/ashe/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Ashe_FreljordSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10094:1",
+      "name": "Frostblade Irelia",
+      "nameZh": "冰霜之刃 艾瑞莉娅",
+      "releaseDate": "2022-10-15",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "3.5b",
+          "date": "2022-12-14",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV3.5b&oldid=3762771",
+          "revision": 3762771,
+          "title": "WR:V3.5b",
+          "kind": "wiki",
+          "announcementDate": "2022-12-14"
+        },
+        {
+          "version": "3.5b",
+          "date": "2022-12-14",
+          "announcementDate": "2022-12-14",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-3-5b/",
+          "title": "Wild Rift Patch Notes 3.5b",
+          "kind": "official",
+          "scope": "release",
+          "section": "SKINS",
+          "excerpt": "Frostblade Irelia",
+          "listedReleaseDate": "2022-12-15"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/irelia/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Irelia_FrostbladeSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10098:6",
+      "name": "Frosted Ezreal",
+      "nameZh": "冰川勇者 伊泽瑞尔",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/ezreal/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Ezreal_FrostedSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10036:1",
+      "name": "Frostfire Annie",
+      "nameZh": "冰霜烈焰 安妮",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/annie/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Annie_FrostfireSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10062:3",
+      "name": "Frozen Prince Mundo",
+      "nameZh": "冰封王子 蒙多医生",
+      "releaseDate": "2020-12-16",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "2.6",
+          "date": "2021-12-02",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV2.6&oldid=4018528",
+          "revision": 4018528,
+          "title": "WR:V2.6",
+          "kind": "wiki",
+          "announcementDate": "2021-12-02"
+        },
+        {
+          "version": "2.6",
+          "date": "2021-12-02",
+          "announcementDate": "2021-12-02",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-2-6/",
+          "title": "Wild Rift Patch Notes 2.6",
+          "kind": "official",
+          "scope": "release",
+          "section": "NEW SKINS",
+          "excerpt": "Frozen Prince Mundo",
+          "listedReleaseDate": "2021-12-03"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/dr-mundo/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Dr._Mundo_FrozenPrinceMundoSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10083:2",
+      "name": "Glacial Malphite",
+      "nameZh": "冰川巨兽 墨菲特",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/malphite/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Malphite_GlacialSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10040:1",
+      "name": "God Staff Jax",
+      "nameZh": "武神 贾克斯",
+      "releaseDate": "2020-09-16",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/jax/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jax_GodStaffSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10012:4",
+      "name": "Gothic Orianna",
+      "nameZh": "哥特女仆 奥莉安娜",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/orianna/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Orianna_GothicSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10089:3",
+      "name": "Gragas Caskbreaker",
+      "nameZh": "碎桶者 古拉加斯",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/gragas/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Gragas_GragasCaskbreakerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10103:2",
+      "name": "Harbinger Kassadin",
+      "nameZh": "先驱行者 卡萨丁",
+      "releaseDate": "2021-07-29",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "3.3a",
+          "date": "2022-07-27",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV3.3a&oldid=3762881",
+          "revision": 3762881,
+          "title": "WR:V3.3a",
+          "kind": "wiki",
+          "announcementDate": "2022-07-27"
+        },
+        {
+          "version": "3.3a",
+          "date": "2022-07-27",
+          "announcementDate": "2022-07-27",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-3-3a/",
+          "title": "Wild Rift Patch Notes 3.3a",
+          "kind": "official",
+          "scope": "release",
+          "section": "SKINS",
+          "excerpt": "Harbinger Kassadin",
+          "listedReleaseDate": "2022-07-29"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/kassadin/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Kassadin_HarbingerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10022:2",
+      "name": "High Noon Jhin",
+      "nameZh": "西部牛仔 烬",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/jhin/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jhin_HighNoonSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10037:3",
+      "name": "High Noon Yasuo",
+      "nameZh": "西部牛仔 亚索",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/yasuo/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Yasuo_HighNoonSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10049:1",
+      "name": "Ice Drake Shyvana",
+      "nameZh": "冰霜亚龙 希瓦娜",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/shyvana/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Shyvana_IceDrakeSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10004:3",
+      "name": "Infernal Amumu",
+      "nameZh": "地狱火 阿木木",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/amumu/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Amumu_InfernalSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10065:1",
+      "name": "Infernal Nasus",
+      "nameZh": "炼狱魔犬 内瑟斯",
+      "releaseDate": "2021-03-27",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "2.2c",
+          "date": "2021-05-12",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV2.2c&oldid=3762723",
+          "revision": 3762723,
+          "title": "WR:V2.2c",
+          "kind": "wiki",
+          "announcementDate": "2021-05-12"
+        },
+        {
+          "version": "2.2c",
+          "date": "2021-05-12",
+          "announcementDate": "2021-05-12",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-2-2c/",
+          "title": "Wild Rift Patch Notes 2.2c",
+          "kind": "official",
+          "scope": "release",
+          "section": "NEW SKINS",
+          "excerpt": "Infernal Nasus",
+          "listedReleaseDate": null
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/nasus/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Nasus_InfernalSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10083:3",
+      "name": "Ironside Malphite",
+      "nameZh": "无畏号 墨菲特",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/malphite/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Malphite_IronsideSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10015:2",
+      "name": "King Tryndamere",
+      "nameZh": "国王 泰达米尔",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/tryndamere/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Tryndamere_KingSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10059:6",
+      "name": "Knockout Lee Sin",
+      "nameZh": "地下拳王 李青",
+      "releaseDate": "2020-10-22",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/lee-sin/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Lee_Sin_KnockoutSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10004:4",
+      "name": "Little Knight Amumu",
+      "nameZh": "小小骑士 阿木木",
+      "releaseDate": "2020-09-16",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/amumu/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Amumu_LittleKnightSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10087:4",
+      "name": "Mad Scientist Ziggs",
+      "nameZh": "科学狂人 吉格斯",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/ziggs/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Ziggs_MadScientistSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10081:2",
+      "name": "Marauder Alistar",
+      "nameZh": "黑暗骑士 阿利斯塔",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/alistar/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Alistar_MarauderSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10079:6",
+      "name": "Marauder Ashe",
+      "nameZh": "黑暗骑士 艾希",
+      "releaseDate": "2020-09-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/ashe/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Ashe_MarauderSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10087:2",
+      "name": "Master Arcanist Ziggs",
+      "nameZh": "奥术大师 吉格斯",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/ziggs/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Ziggs_MasterArcanistSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10023:1",
+      "name": "Mecha Aurelion Sol",
+      "nameZh": "霸天龙神 奥瑞利安·索尔",
+      "releaseDate": "2020-09-17",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/aurelion-sol/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Aurelion_Sol_MechaSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10083:1",
+      "name": "Mecha Malphite",
+      "nameZh": "霸天巨兽 墨菲特",
+      "releaseDate": "2021-03-27",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "2.2c",
+          "date": "2021-05-12",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV2.2c&oldid=3762723",
+          "revision": 3762723,
+          "title": "WR:V2.2c",
+          "kind": "wiki",
+          "announcementDate": "2021-05-12"
+        },
+        {
+          "version": "2.2c",
+          "date": "2021-05-12",
+          "announcementDate": "2021-05-12",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-2-2c/",
+          "title": "Wild Rift Patch Notes 2.2c",
+          "kind": "official",
+          "scope": "release",
+          "section": "NEW SKINS",
+          "excerpt": "Mecha Malphite",
+          "listedReleaseDate": null
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/malphite/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Malphite_MechaSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10081:1",
+      "name": "Moo Cow Alistar",
+      "nameZh": "哞利斯塔 阿利斯塔",
+      "releaseDate": "2020-09-16",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/alistar/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Alistar_MooCowSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10059:1",
+      "name": "Muay Thai Lee Sin",
+      "nameZh": "至高之拳 李青",
+      "releaseDate": "2020-10-22",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/lee-sin/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Lee_Sin_MuayThaiSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10047:5",
+      "name": "Muse Sona",
+      "nameZh": "缪斯女神 娑娜",
+      "releaseDate": "2020-09-24",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/sona/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Sona_MuseSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10005:2",
+      "name": "Nightbringer Kayn",
+      "nameZh": "黑夜使者 凯隐",
+      "releaseDate": "2021-09-23",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "5.0b",
+          "date": "2024-02-21",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV5.0b&oldid=3764147",
+          "revision": 3764147,
+          "title": "WR:V5.0b",
+          "kind": "wiki",
+          "announcementDate": "2024-02-21"
+        },
+        {
+          "version": "5.0b",
+          "date": "2024-02-21",
+          "announcementDate": "2024-02-21",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-5-0b/",
+          "title": "Wild Rift Patch Notes 5.0b",
+          "kind": "official",
+          "scope": "release",
+          "section": "SKINS",
+          "excerpt": "Nightbringer Kayn",
+          "listedReleaseDate": "2024-03-08"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/kayn/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Kayn_NightbringerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10097:2",
+      "name": "Order of the Banana Soraka",
+      "nameZh": "蕉泥座人 索拉卡",
+      "releaseDate": "2020-09-17",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/soraka/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Soraka_OrderoftheBananaSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10047:1",
+      "name": "Pentakill Sona",
+      "nameZh": "五连摇滚键盘手 娑娜",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/sona/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Sona_PentakillSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10072:3",
+      "name": "Praetorian Graves",
+      "nameZh": "禁卫机甲 格雷福斯",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/graves/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Graves_PraetorianSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10055:1",
+      "name": "Program Camille",
+      "nameZh": "源代码 卡蜜尔",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/camille/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Camille_ProgramSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10097:4",
+      "name": "Program Soraka",
+      "nameZh": "源代码 索拉卡",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/soraka/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Soraka_ProgramSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10025:3",
+      "name": "Pulsefire Twisted Fate",
+      "nameZh": "未来战士 崔斯特",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/twisted-fate/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Twisted_Fate_PulsefireSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10062:4",
+      "name": "Rageborn Mundo",
+      "nameZh": "战争血统 蒙多医生",
+      "releaseDate": "2020-10-07",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "2.6",
+          "date": "2021-12-02",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV2.6&oldid=4018528",
+          "revision": 4018528,
+          "title": "WR:V2.6",
+          "kind": "wiki",
+          "announcementDate": "2021-12-02"
+        },
+        {
+          "version": "2.6",
+          "date": "2021-12-02",
+          "announcementDate": "2021-12-02",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-2-6/",
+          "title": "Wild Rift Patch Notes 2.6",
+          "kind": "official",
+          "scope": "release",
+          "section": "NEW SKINS",
+          "excerpt": "Rageborn Mundo",
+          "listedReleaseDate": "2021-12-03"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/dr-mundo/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Dr._Mundo_RagebornMundoSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10036:3",
+      "name": "Red Riding Annie",
+      "nameZh": "小红帽 安妮",
+      "releaseDate": "2020-09-24",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/annie/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Annie_RedRidingSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10091:2",
+      "name": "River Spirit Nami",
+      "nameZh": "河水之灵 娜美",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/nami/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Nami_RiverSpiritSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10001:5",
+      "name": "Rogue Admiral Garen",
+      "nameZh": "海上霸主 盖伦",
+      "releaseDate": "2020-09-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/garen/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Garen_RogueAdmiralSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10032:3",
+      "name": "Royal Guard Fiora",
+      "nameZh": "皇家守卫 菲奥娜",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/fiora/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Fiora_RoyalGuardSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10075:3",
+      "name": "Sacred Sword Janna",
+      "nameZh": "玉剑传说 风仙子 迦娜",
+      "releaseDate": "2020-10-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/janna/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Janna_SacredSwordSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10016:1",
+      "name": "Secret Agent Xin Zhao",
+      "nameZh": "秘密特工 赵信",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/xin-zhao/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Xin_Zhao_SecretAgentSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10039:2",
+      "name": "Shockblade Zed",
+      "nameZh": "冲击之刃 劫",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/zed/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Zed_ShockbladeSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10032:5",
+      "name": "Soaring Sword Fiora",
+      "nameZh": "玉剑传说 无双 菲奥娜",
+      "releaseDate": "2020-10-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/fiora/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Fiora_SoaringSwordSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10003:2",
+      "name": "Sorceress Lux",
+      "nameZh": "奥术光辉 拉克丝",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/lux/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Lux_SorceressSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10003:3",
+      "name": "Spellthief Lux",
+      "nameZh": "游侠法师 拉克丝",
+      "releaseDate": "2020-09-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/lux/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Lux_SpellthiefSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10055:4",
+      "name": "Stargazer Camille",
+      "nameZh": "星域审判官 卡蜜尔",
+      "releaseDate": "2021-01-14",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "2.2a",
+          "date": "2021-04-20",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV2.2a&oldid=3763502",
+          "revision": 3763502,
+          "title": "WR:V2.2a",
+          "kind": "wiki",
+          "announcementDate": "2021-04-20"
+        },
+        {
+          "version": "2.2a",
+          "date": "2021-04-20",
+          "announcementDate": "2021-04-20",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-2-2a/",
+          "title": "Wild Rift Patch Notes 2.2a",
+          "kind": "official",
+          "scope": "release",
+          "section": "NEW SKINS",
+          "excerpt": "Stargazer Camille",
+          "listedReleaseDate": null
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/camille/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Camille_StargazerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10097:8",
+      "name": "Stargazer Soraka",
+      "nameZh": "星域学者 索拉卡",
+      "releaseDate": "2021-01-14",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "2.2a",
+          "date": "2021-04-20",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV2.2a&oldid=3763502",
+          "revision": 3763502,
+          "title": "WR:V2.2a",
+          "kind": "wiki",
+          "announcementDate": "2021-04-20"
+        },
+        {
+          "version": "2.2a",
+          "date": "2021-04-20",
+          "announcementDate": "2021-04-20",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-2-2a/",
+          "title": "Wild Rift Patch Notes 2.2a",
+          "kind": "official",
+          "scope": "release",
+          "section": "NEW SKINS",
+          "excerpt": "Stargazer Soraka",
+          "listedReleaseDate": null
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/soraka/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Soraka_StargazerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10025:6",
+      "name": "Stargazer Twisted Fate",
+      "nameZh": "星域游侠 崔斯特",
+      "releaseDate": "2021-01-14",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "2.2a",
+          "date": "2021-04-20",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV2.2a&oldid=3763502",
+          "revision": 3763502,
+          "title": "WR:V2.2a",
+          "kind": "wiki",
+          "announcementDate": "2021-04-20"
+        },
+        {
+          "version": "2.2a",
+          "date": "2021-04-20",
+          "announcementDate": "2021-04-20",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-2-2a/",
+          "title": "Wild Rift Patch Notes 2.2a",
+          "kind": "official",
+          "scope": "release",
+          "section": "NEW SKINS",
+          "excerpt": "Stargazer Twisted Fate",
+          "listedReleaseDate": null
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/twisted-fate/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Twisted_Fate_StargazerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10003:9",
+      "name": "Steel Legion Lux",
+      "nameZh": "钢铁军团 拉克丝",
+      "releaseDate": "2021-01-06",
+      "reason": "date-conflict",
+      "candidates": [
+        {
+          "version": "2.6a",
+          "date": "2021-12-17",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=WR%3AV2.6a&oldid=3764093",
+          "revision": 3764093,
+          "title": "WR:V2.6a",
+          "kind": "wiki",
+          "announcementDate": "2021-12-17"
+        },
+        {
+          "version": "2.6a",
+          "date": "2021-12-17",
+          "announcementDate": "2021-12-17",
+          "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-2-6a/",
+          "title": "Wild Rift Patch Notes 2.6a",
+          "kind": "official",
+          "scope": "release",
+          "section": "SKINS",
+          "excerpt": "Steel Legion Lux",
+          "listedReleaseDate": "2022-01-06"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/lux/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Lux_SteelLegionSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10086:1",
+      "name": "Super Galaxy Fizz",
+      "nameZh": "银河魔装机神 菲兹",
+      "releaseDate": "2020-09-16",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/fizz/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Fizz_SuperGalaxySkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10022:5",
+      "name": "Supervillain Jhin",
+      "nameZh": "灭迹行者 烬",
+      "releaseDate": "2022-11-16",
+      "reason": "missing-patch-record",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/jhin/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jhin_SupervillainSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10096:1",
+      "name": "Surfer Singed",
+      "nameZh": "冲浪高手 辛吉德",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/singed/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Singed_SurferSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10025:5",
+      "name": "Tango Twisted Fate",
+      "nameZh": "探戈灵魂 崔斯特",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/twisted-fate/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Twisted_Fate_TangoSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10075:4",
+      "name": "Tempest Janna",
+      "nameZh": "暴风女神 迦娜",
+      "releaseDate": "2020-09-17",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/janna/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Janna_TempestSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10091:1",
+      "name": "Urf the Nami-tee",
+      "nameZh": "鲛妮座人 娜美",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/nami/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Nami_UrftheNami-teeSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10089:1",
+      "name": "Vandal Gragas",
+      "nameZh": "飞车暴走族 古拉加斯",
+      "releaseDate": "2020-06-06",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/gragas/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Gragas_VandalSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10093:4",
+      "name": "Varus Swiftbolt",
+      "nameZh": "迅箭 韦鲁斯",
+      "releaseDate": "2020-09-17",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/varus/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Varus_VarusSwiftboltSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10086:2",
+      "name": "Void Fizz",
+      "nameZh": "虚空海灵 菲兹",
+      "releaseDate": "2020-09-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/fizz/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Fizz_VoidSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10065:2",
+      "name": "Worldbreaker Nasus",
+      "nameZh": "创世魔神 内瑟斯",
+      "releaseDate": "2020-09-15",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/nasus/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Nasus_WorldbreakerSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10018:5",
+      "name": "Zombie Slayer Jinx",
+      "nameZh": "清剿小队 金克丝",
+      "releaseDate": "2020-10-07",
+      "reason": "early-history",
+      "candidates": [],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/jinx/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jinx_ZombieSlayerSkin_WR.jpg"
+        }
+      ]
+    }
+  ],
+  "inferredTotal": 133,
+  "inferred": [
+    {
+      "id": "wr:10031:1",
+      "name": "Headhunter Akali",
+      "nameZh": "铁血女忍 阿卡丽",
+      "releaseDate": "2020-10-30",
+      "version": "1.0",
+      "patchStart": "2020-10-27",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10031:14",
+      "name": "Prestige Select Crystal Rose Akali",
+      "nameZh": "臻藏 水晶玫瑰 阿卡丽",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10081:3",
+      "name": "Hextech Alistar",
+      "nameZh": "海克斯科技 阿利斯塔",
+      "releaseDate": "2022-11-13",
+      "version": "3.4c",
+      "patchStart": "2022-11-02",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10081:10",
+      "name": "Chibi Alistar",
+      "nameZh": "Chibi Alistar",
+      "releaseDate": "2026-10-30",
+      "version": "7.3d",
+      "patchStart": "2026-10-28",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10004:7",
+      "name": "Bookworm Amumu",
+      "nameZh": "自愿好学 阿木木",
+      "releaseDate": "2026-08-28",
+      "version": "7.2d",
+      "patchStart": "2026-08-26",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10036:5",
+      "name": "Super Galaxy Annie",
+      "nameZh": "银河魔装机神 安妮",
+      "releaseDate": "2021-11-24",
+      "version": "2.5b",
+      "patchStart": "2021-11-09",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10036:9",
+      "name": "Winterblessed Annie",
+      "nameZh": "北极星使者 安妮",
+      "releaseDate": "2024-11-05",
+      "version": "5.3a",
+      "patchStart": "2024-10-31",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10036:8",
+      "name": "Panda Annie",
+      "nameZh": "“你看见过我的熊猫吗？” 安妮",
+      "releaseDate": "2025-04-11",
+      "version": "6.0e",
+      "patchStart": "2025-04-02",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10036:10",
+      "name": "Annie-Versary",
+      "nameZh": "一路有妮 安妮",
+      "releaseDate": "2026-08-07",
+      "version": "7.2b",
+      "patchStart": "2026-07-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10079:4",
+      "name": "Queen Ashe",
+      "nameZh": "女皇 艾希",
+      "releaseDate": "2020-12-31",
+      "version": "1.1",
+      "patchStart": "2020-12-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10079:10",
+      "name": "Glorious Armada Ashe",
+      "nameZh": "王牌司令 艾希",
+      "releaseDate": "2023-10-27",
+      "version": "4.4",
+      "patchStart": "2023-10-24",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10079:14",
+      "name": "High Noon Ashe Mythic Chroma",
+      "nameZh": "天陨烈辉 艾希",
+      "releaseDate": "2024-10-24",
+      "version": "5.3",
+      "patchStart": "2024-10-17",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10079:17",
+      "name": "Weather Entity Ashe",
+      "nameZh": "天棱星河 艾希",
+      "releaseDate": "2026-07-09",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10119:1",
+      "name": "Zombie Brand",
+      "nameZh": "丧尸 布兰德",
+      "releaseDate": "2023-10-25",
+      "version": "4.4",
+      "patchStart": "2023-10-24",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10119:13",
+      "name": "Battle Boss Brand Exquisite Edition",
+      "nameZh": "焦土新皇 布兰德",
+      "releaseDate": "2026-09-22",
+      "version": "7.3",
+      "patchStart": "2026-09-21",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10021:3",
+      "name": "Braum Lionheart",
+      "nameZh": "狮心 布隆",
+      "releaseDate": "2020-12-31",
+      "version": "1.1",
+      "patchStart": "2020-12-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10021:8",
+      "name": "Garden Party Braum",
+      "nameZh": "礼物选好了吗？ 布隆",
+      "releaseDate": "2025-10-23",
+      "version": "6.3",
+      "patchStart": "2025-10-22",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10088:1",
+      "name": "Toy Terror Cho'Gath",
+      "nameZh": "鳄加斯 科加斯",
+      "releaseDate": "2026-09-19",
+      "version": "7.2e",
+      "patchStart": "2026-09-09",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10060:7",
+      "name": "Ocean Corki",
+      "nameZh": "渔趣远航 库奇",
+      "releaseDate": "2025-12-25",
+      "version": "6.3f",
+      "patchStart": "2025-12-17",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10071:3",
+      "name": "Dreadnova Darius",
+      "nameZh": "恐惧新星 德莱厄斯",
+      "releaseDate": "2025-04-11",
+      "version": "6.0e",
+      "patchStart": "2025-04-02",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10071:9",
+      "name": "Supreme Cells Darius",
+      "nameZh": "超武乾坤：裁决 德莱厄斯",
+      "releaseDate": "2026-09-29",
+      "version": "7.3a",
+      "patchStart": "2026-09-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10013:9",
+      "name": "Winterblessed Diana",
+      "nameZh": "北极星神 黛安娜",
+      "releaseDate": "2024-11-05",
+      "version": "5.3a",
+      "patchStart": "2024-10-31",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10013:11",
+      "name": "Crystal Rose Diana",
+      "nameZh": "水晶玫瑰 黛安娜",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10062:6",
+      "name": "Mundo Mundo",
+      "nameZh": "蒙多蒙多 蒙多医生",
+      "releaseDate": "2026-09-22",
+      "version": "7.3",
+      "patchStart": "2026-09-21",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10029:1",
+      "name": "Tango Evelynn",
+      "nameZh": "探戈灵魂 伊芙琳",
+      "releaseDate": "2020-10-30",
+      "version": "1.0",
+      "patchStart": "2020-10-27",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10098:17",
+      "name": "Striker Ezreal",
+      "nameZh": "足球先生 伊泽瑞尔",
+      "releaseDate": "2026-07-09",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10133:3",
+      "name": "Warring Kingdoms Fiddlesticks",
+      "nameZh": "赤壁风华 怨偶 费德提克",
+      "releaseDate": "2026-09-29",
+      "version": "7.3a",
+      "patchStart": "2026-09-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10099:11",
+      "name": "Garden Party Galio",
+      "nameZh": "夺宝重击！ 加里奥",
+      "releaseDate": "2026-07-09",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:wiki:galio:lumigraphgardenparty",
+      "name": "Lumigraph Garden Party Galio",
+      "nameZh": "Lumigraph Garden Party Galio",
+      "releaseDate": "2026-07-14",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10001:1",
+      "name": "Steel Legion Garen",
+      "nameZh": "钢铁军团 盖伦",
+      "releaseDate": "2020-12-31",
+      "version": "1.1",
+      "patchStart": "2020-12-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10001:12",
+      "name": "Camouflage Garen",
+      "nameZh": "草丛正义 盖伦",
+      "releaseDate": "2026-07-03",
+      "version": "7.1h",
+      "patchStart": "2026-06-24",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:wiki:garen:warringkingdomsexquisiteedition",
+      "name": "Warring Kingdoms Garen Exquisite Edition",
+      "nameZh": "Warring Kingdoms Garen Exquisite Edition",
+      "releaseDate": "2026-09-29",
+      "version": "7.3a",
+      "patchStart": "2026-09-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10072:4",
+      "name": "Cutthroat Graves",
+      "nameZh": "无情重炮 格雷福斯",
+      "releaseDate": "2021-02-24",
+      "version": "2.1",
+      "patchStart": "2021-02-01",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10072:8",
+      "name": "Supervillain Graves",
+      "nameZh": "绝命机甲 格雷福斯",
+      "releaseDate": "2023-01-12",
+      "version": "4.0",
+      "patchStart": "2023-01-11",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10054:9",
+      "name": "Battle Cat Gwen Exquisite Edition",
+      "nameZh": "无声裁影 格温",
+      "releaseDate": "2026-02-13",
+      "version": "7.0c",
+      "patchStart": "2026-02-11",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10054:11",
+      "name": "Island Vacation Gwen",
+      "nameZh": "碧空悠游 格温",
+      "releaseDate": "2026-07-24",
+      "version": "7.2a",
+      "patchStart": "2026-07-15",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10019:3",
+      "name": "Winterblessed Hecarim",
+      "nameZh": "北极星守护者 赫卡里姆",
+      "releaseDate": "2024-11-05",
+      "version": "5.3a",
+      "patchStart": "2024-10-31",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10019:6",
+      "name": "Petals of Spring Hecarim",
+      "nameZh": "蕊雪盈春：晏安 赫卡里姆",
+      "releaseDate": "2026-02-04",
+      "version": "7.0b",
+      "patchStart": "2026-02-03",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10147:2",
+      "name": "Winterblessed Hwei",
+      "nameZh": "北极星使者 彗",
+      "releaseDate": "2026-09-22",
+      "version": "7.3",
+      "patchStart": "2026-09-21",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10075:9",
+      "name": "Glorious Aigrette Janna",
+      "nameZh": "冠翎御风使 迦娜",
+      "releaseDate": "2025-04-17",
+      "version": "6.1",
+      "patchStart": "2025-04-16",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10075:12",
+      "name": "Warring Kingdoms Janna",
+      "nameZh": "赤壁风华 天香 迦娜",
+      "releaseDate": "2026-09-29",
+      "version": "7.3a",
+      "patchStart": "2026-09-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10056:5",
+      "name": "Hextech Jarvan IV",
+      "nameZh": "海克斯科技 嘉文四世",
+      "releaseDate": "2023-01-01",
+      "version": "3.5b",
+      "patchStart": "2022-12-14",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10056:8",
+      "name": "Glorious Armada Jarvan IV",
+      "nameZh": "王牌上将 嘉文四世",
+      "releaseDate": "2023-08-03",
+      "version": "4.3a",
+      "patchStart": "2023-08-02",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10101:5",
+      "name": "Resistance Jayce",
+      "nameZh": "抵抗军雷神 杰斯",
+      "releaseDate": "2025-10-23",
+      "version": "6.3",
+      "patchStart": "2025-10-22",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10018:15",
+      "name": "Star Guardian Jinx Exquisite Edition",
+      "nameZh": "夜星流火 金克丝",
+      "releaseDate": "2025-07-24",
+      "version": "6.2a",
+      "patchStart": "2025-07-24",
+      "reason": "announcement-only"
+    },
+    {
+      "id": "wr:10026:1",
+      "name": "Bullet Angel Kai'Sa",
+      "nameZh": "弹幕天使 卡莎",
+      "releaseDate": "2020-10-30",
+      "version": "1.0",
+      "patchStart": "2020-10-27",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10026:13",
+      "name": "Star Guardian Kai'Sa Exquisite Edition",
+      "nameZh": "暮星追影 卡莎",
+      "releaseDate": "2025-10-17",
+      "version": "6.2l",
+      "patchStart": "2025-10-16",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10134:5",
+      "name": "Battle Queen Kalista",
+      "nameZh": "女帝 卡莉丝塔",
+      "releaseDate": "2026-10-23",
+      "version": "7.3c",
+      "patchStart": "2026-10-21",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10007:5",
+      "name": "Stargazer Karma",
+      "nameZh": "星域先知 卡尔玛",
+      "releaseDate": "2022-07-14",
+      "version": "3.3",
+      "patchStart": "2022-07-13",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10007:9",
+      "name": "Island Vacation Karma",
+      "nameZh": "碧空悠游 卡尔玛",
+      "releaseDate": "2026-07-24",
+      "version": "7.2a",
+      "patchStart": "2026-07-15",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10095:12",
+      "name": "Summer Party Katarina Exquisite Edition",
+      "nameZh": "云栖锐想 卡特琳娜",
+      "releaseDate": "2026-07-24",
+      "version": "7.2a",
+      "patchStart": "2026-07-15",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:wiki:kayle:lumigraphcrypticdepth",
+      "name": "Lumigraph Cryptic Depth Kayle",
+      "nameZh": "Lumigraph Cryptic Depth Kayle",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10005:5",
+      "name": "Odyssey Kayn",
+      "nameZh": "奥德赛 凯隐",
+      "releaseDate": "2026-09-04",
+      "version": "7.2d",
+      "patchStart": "2026-08-26",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10110:3",
+      "name": "Pencil Sharpener Kog'Maw",
+      "nameZh": "卷笔刀 克格莫",
+      "releaseDate": "2026-09-22",
+      "version": "7.3",
+      "patchStart": "2026-09-21",
+      "reason": "announcement-only"
+    },
+    {
+      "id": "wr:10059:15",
+      "name": "Playmaker Lee Sin Exquisite Edition",
+      "nameZh": "一球成名 李青",
+      "releaseDate": "2026-09-12",
+      "version": "7.2e",
+      "patchStart": "2026-09-09",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10044:3",
+      "name": "Solar Eclipse Leona",
+      "nameZh": "日蚀骑士 蕾欧娜",
+      "releaseDate": "2021-11-24",
+      "version": "2.5b",
+      "patchStart": "2021-11-09",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10044:4",
+      "name": "Lunar Eclipse Leona",
+      "nameZh": "月蚀骑士 蕾欧娜",
+      "releaseDate": "2021-11-24",
+      "version": "2.5b",
+      "patchStart": "2021-11-09",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10044:9",
+      "name": "Crystal Rose Leona",
+      "nameZh": "水晶玫瑰 蕾欧娜",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10135:5",
+      "name": "Winterblessed Lillia",
+      "nameZh": "北极星寒枝 莉莉娅",
+      "releaseDate": "2024-11-05",
+      "version": "5.3a",
+      "patchStart": "2024-10-31",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10135:6",
+      "name": "Wondertown Lillia",
+      "nameZh": "游梦仙境 莉莉娅",
+      "releaseDate": "2025-07-17",
+      "version": "6.2",
+      "patchStart": "2025-07-16",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10042:14",
+      "name": "PROJECT: Lucian Exquisite Edition",
+      "nameZh": "闪霆脉冲 卢锡安",
+      "releaseDate": "2026-09-04",
+      "version": "7.2d",
+      "patchStart": "2026-08-26",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10048:6",
+      "name": "Pajama Guardian Lulu",
+      "nameZh": "睡衣守护者 璐璐",
+      "releaseDate": "2025-03-13",
+      "version": "6.0d",
+      "patchStart": "2025-03-13",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10048:10",
+      "name": "Purple Garlic Lulu",
+      "nameZh": "蒜泥狠 璐璐",
+      "releaseDate": "2026-07-10",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10083:10",
+      "name": "Wondertown Malphite",
+      "nameZh": "奇檐怪影 墨菲特",
+      "releaseDate": "2026-10-30",
+      "version": "7.3d",
+      "patchStart": "2026-10-28",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10070:3",
+      "name": "Snow Man Yi",
+      "nameZh": "持胡萝卜的雪人 易",
+      "releaseDate": "2020-12-16",
+      "version": "1.1",
+      "patchStart": "2020-12-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10066:3",
+      "name": "Arcade Miss Fortune",
+      "nameZh": "电玩女神 厄运小姐",
+      "releaseDate": "2020-12-31",
+      "version": "1.1",
+      "patchStart": "2020-12-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10066:17",
+      "name": "Crystal Rose Miss Fortune",
+      "nameZh": "水晶玫瑰 厄运小姐",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:wiki:missfortune:lumigraphcrypticdepth",
+      "name": "Lumigraph Cryptic Depth Miss Fortune",
+      "nameZh": "Lumigraph Cryptic Depth Miss Fortune",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10035:4",
+      "name": "Ashen Graveknight Mordekaiser",
+      "nameZh": "灰烬骑士 莫德凯撒",
+      "releaseDate": "2025-10-10",
+      "version": "6.2k",
+      "patchStart": "2025-10-09",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10028:13",
+      "name": "Prestige Cryptic Depth Morgana",
+      "nameZh": "至臻 深海奇域 莫甘娜",
+      "releaseDate": "2026-06-25",
+      "version": "7.1h",
+      "patchStart": "2026-06-24",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10028:15",
+      "name": "Island Vacation Morgana",
+      "nameZh": "碧空悠游 莫甘娜",
+      "releaseDate": "2026-07-24",
+      "version": "7.2a",
+      "patchStart": "2026-07-15",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:wiki:morgana:lumigraphcrypticdepth",
+      "name": "Lumigraph Cryptic Depth Morgana",
+      "nameZh": "Lumigraph Cryptic Depth Morgana",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10091:6",
+      "name": "Glorious Crimson Nami",
+      "nameZh": "绯金鲛灵 娜美",
+      "releaseDate": "2023-01-13",
+      "version": "4.0",
+      "patchStart": "2023-01-11",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10091:9",
+      "name": "Winterblessed Nami",
+      "nameZh": "北极星霜潮 娜美",
+      "releaseDate": "2024-11-05",
+      "version": "5.3a",
+      "patchStart": "2024-10-31",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10091:11",
+      "name": "Crystal Rose Nami",
+      "nameZh": "水晶玫瑰 娜美",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10065:4",
+      "name": "Battlecast Nasus",
+      "nameZh": "战地机甲 内瑟斯",
+      "releaseDate": "2025-06-13",
+      "version": "6.1d",
+      "patchStart": "2025-06-11",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10132:7",
+      "name": "Trash Diver Nautilus",
+      "nameZh": "“圾”流勇进 诺提勒斯",
+      "releaseDate": "2026-08-28",
+      "version": "7.2d",
+      "patchStart": "2026-08-26",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10084:5",
+      "name": "Battle Queen Nidalee",
+      "nameZh": "女帝 奈德丽",
+      "releaseDate": "2026-10-23",
+      "version": "7.3c",
+      "patchStart": "2026-10-21",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10151:2",
+      "name": "Weather Entity Nocturne",
+      "nameZh": "天棱磁魇 魔腾",
+      "releaseDate": "2026-07-09",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10008:3",
+      "name": "Zombie Nunu & Willump",
+      "nameZh": "丧尸 努努和威朗普",
+      "releaseDate": "2021-09-08",
+      "version": "2.4b",
+      "patchStart": "2021-09-01",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10008:6",
+      "name": "Dreambuilder Nunu & Willump",
+      "nameZh": "筑梦奇趣 努努和威朗普",
+      "releaseDate": "2026-06-01",
+      "version": "7.1f",
+      "patchStart": "2026-05-27",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10106:2",
+      "name": "Pentakill Olaf",
+      "nameZh": "五连摇滚鼓手 奥拉夫",
+      "releaseDate": "2024-07-05",
+      "version": "5.1d",
+      "patchStart": "2024-06-26",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10012:3",
+      "name": "Winter Wonder Orianna",
+      "nameZh": "冬季仙境 奥莉安娜",
+      "releaseDate": "2020-12-16",
+      "version": "1.1",
+      "patchStart": "2020-12-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10136:6",
+      "name": "Choo-Choo Ornn",
+      "nameZh": "嘟！嘟！ 奥恩",
+      "releaseDate": "2026-06-06",
+      "version": "7.1f",
+      "patchStart": "2026-05-27",
+      "reason": "announcement-only"
+    },
+    {
+      "id": "wr:wiki:pantheon:lumigraphcrypticdepth",
+      "name": "Lumigraph Cryptic Depth Pantheon",
+      "nameZh": "Lumigraph Cryptic Depth Pantheon",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10076:1",
+      "name": "Guess Who Poppy",
+      "nameZh": "我是谁？！ 波比",
+      "releaseDate": "2025-03-28",
+      "version": "6.0d",
+      "patchStart": "2025-03-13",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10076:5",
+      "name": "Weather Entity Poppy",
+      "nameZh": "天棱晴雨 波比",
+      "releaseDate": "2026-07-09",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10124:10",
+      "name": "PROJECT: Pyke Exquisite Edition",
+      "nameZh": "碎渊猎手 派克",
+      "releaseDate": "2026-09-04",
+      "version": "7.2d",
+      "patchStart": "2026-08-26",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10116:1",
+      "name": "Star Guardian Rell",
+      "nameZh": "星之守护者 芮尔",
+      "releaseDate": "2025-11-14",
+      "version": "6.3c",
+      "patchStart": "2025-11-05",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10121:5",
+      "name": "Prehistoric Renekton",
+      "nameZh": "猛龙 雷克顿",
+      "releaseDate": "2021-11-24",
+      "version": "2.5b",
+      "patchStart": "2021-11-09",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10121:2",
+      "name": "Hextech Renekton",
+      "nameZh": "海克斯科技 雷克顿",
+      "releaseDate": "2025-04-30",
+      "version": "6.1a",
+      "patchStart": "2025-04-30",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10137:5",
+      "name": "Movie Director Ryze",
+      "nameZh": "影坛巨匠 瑞兹",
+      "releaseDate": "2026-07-09",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10104:5",
+      "name": "Supreme Cells Samira",
+      "nameZh": "超武乾坤：征服 莎弥拉",
+      "releaseDate": "2026-09-29",
+      "version": "7.3a",
+      "patchStart": "2026-09-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10068:12",
+      "name": "Prestige Select Spirit Blossom Sett",
+      "nameZh": "臻藏 灵魂莲华 瑟提",
+      "releaseDate": "2026-09-22",
+      "version": "7.3",
+      "patchStart": "2026-09-21",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10125:7",
+      "name": "Little Night Fright Sion",
+      "nameZh": "午夜亡灵 赛小恩 赛恩",
+      "releaseDate": "2026-10-30",
+      "version": "7.3d",
+      "patchStart": "2026-10-28",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10107:5",
+      "name": "Battle Queen Sivir",
+      "nameZh": "女帝 希维尔",
+      "releaseDate": "2026-10-23",
+      "version": "7.3c",
+      "patchStart": "2026-10-21",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10117:1",
+      "name": "Cosmic Sting Skarner",
+      "nameZh": "天蝎星神 斯卡纳",
+      "releaseDate": "2026-07-09",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10047:12",
+      "name": "Prestige Crystal Rose Sona",
+      "nameZh": "至臻 水晶玫瑰 娑娜",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10097:3",
+      "name": "Winter Wonder Soraka",
+      "nameZh": "冬境仙灵 索拉卡",
+      "releaseDate": "2020-12-16",
+      "version": "1.1",
+      "patchStart": "2020-12-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10097:10",
+      "name": "Immortal Journey Soraka",
+      "nameZh": "玉剑传说 星仙子 索拉卡",
+      "releaseDate": "2026-06-25",
+      "version": "7.1h",
+      "patchStart": "2026-06-24",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10126:6",
+      "name": "Warring Kingdoms Swain",
+      "nameZh": "赤壁风华 霸业 斯维因",
+      "releaseDate": "2026-09-29",
+      "version": "7.3a",
+      "patchStart": "2026-09-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10024:7",
+      "name": "Island Vacation Syndra",
+      "nameZh": "碧空悠游 辛德拉",
+      "releaseDate": "2026-07-24",
+      "version": "7.2a",
+      "patchStart": "2026-07-15",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10128:8",
+      "name": "Dragonblade Talon",
+      "nameZh": "银龙裁决 泰隆",
+      "releaseDate": "2026-02-27",
+      "version": "7.0c",
+      "patchStart": "2026-02-11",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10130:10",
+      "name": "Janitor Thresh",
+      "nameZh": "洗地专家 锤石",
+      "releaseDate": "2026-03-08",
+      "version": "7.0d",
+      "patchStart": "2026-03-04",
+      "reason": "announcement-only"
+    },
+    {
+      "id": "wr:wiki:thresh:lumigraphcrypticdepth",
+      "name": "Lumigraph Cryptic Depth Thresh",
+      "nameZh": "Lumigraph Cryptic Depth Thresh",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10015:4",
+      "name": "Glorious Tryndamere",
+      "nameZh": "光耀之刃 泰达米尔",
+      "releaseDate": "2021-01-07",
+      "version": "2.0",
+      "patchStart": "2021-01-05",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10015:5",
+      "name": "Warring Kingdoms Tryndamere",
+      "nameZh": "关羽 云长 泰达米尔",
+      "releaseDate": "2021-02-24",
+      "version": "2.1",
+      "patchStart": "2021-02-01",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10015:10",
+      "name": "Max Crit Tryndamere",
+      "nameZh": "兄弟已百暴！ 泰达米尔",
+      "releaseDate": "2026-01-22",
+      "version": "7.0",
+      "patchStart": "2026-01-21",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10015:11",
+      "name": "Wavebreaker Sword Tryndamere Exquisite Edition",
+      "nameZh": "凌渊贯日 泰达米尔",
+      "releaseDate": "2026-06-25",
+      "version": "7.1h",
+      "patchStart": "2026-06-24",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10025:4",
+      "name": "Cutpurse Twisted Fate",
+      "nameZh": "逍遥赌侠 崔斯特",
+      "releaseDate": "2021-02-24",
+      "version": "2.1",
+      "patchStart": "2021-02-01",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10025:8",
+      "name": "Stargazer Twisted Fate Mythic Chroma",
+      "nameZh": "星域游侠 圣时豪杰 崔斯特",
+      "releaseDate": "2023-09-08",
+      "version": "4.3b",
+      "patchStart": "2023-08-23",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10025:9",
+      "name": "Wondertown Twisted Fate",
+      "nameZh": "怪诞童话 崔斯特",
+      "releaseDate": "2025-04-17",
+      "version": "6.1",
+      "patchStart": "2025-04-16",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10025:10",
+      "name": "Warring Kingdoms Twisted Fate",
+      "nameZh": "赤壁风华 英姿 崔斯特",
+      "releaseDate": "2026-09-29",
+      "version": "7.3a",
+      "patchStart": "2026-09-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10102:1",
+      "name": "Battlecast Urgot",
+      "nameZh": "战地机甲 厄加特",
+      "releaseDate": "2025-09-19",
+      "version": "6.2h",
+      "patchStart": "2025-09-17",
+      "reason": "announcement-only"
+    },
+    {
+      "id": "wr:10102:6",
+      "name": "Abyssal Sword Urgot",
+      "nameZh": "幽绝剑煞 厄加特",
+      "releaseDate": "2026-06-25",
+      "version": "7.1h",
+      "patchStart": "2026-06-24",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10093:18",
+      "name": "Elf Forest Varus",
+      "nameZh": "仙灵之息：蚀之澈 韦鲁斯",
+      "releaseDate": "2026-09-10",
+      "version": "7.2e",
+      "patchStart": "2026-09-09",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10010:5",
+      "name": "Soulstealer Vayne",
+      "nameZh": "摄魂使者 薇恩",
+      "releaseDate": "2023-05-26",
+      "version": "4.2",
+      "patchStart": "2023-05-25",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10141:6",
+      "name": "Wondertown Vex",
+      "nameZh": "红帽迷影 薇古丝",
+      "releaseDate": "2025-10-23",
+      "version": "6.3",
+      "patchStart": "2025-10-22",
+      "reason": "announcement-only"
+    },
+    {
+      "id": "wr:10050:6",
+      "name": "Officer Vi",
+      "nameZh": "女警官 蔚",
+      "releaseDate": "2022-07-15",
+      "version": "3.3",
+      "patchStart": "2022-07-13",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10050:11",
+      "name": "Warring Kingdoms Vi Exquisite Edition",
+      "nameZh": "虎卫登神 蔚",
+      "releaseDate": "2026-09-29",
+      "version": "7.3a",
+      "patchStart": "2026-09-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10090:6",
+      "name": "Prestige Weather Entity Vladimir",
+      "nameZh": "至臻 天棱寒雨 弗拉基米尔",
+      "releaseDate": "2026-07-09",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10058:7",
+      "name": "Legends Showdown Volibear",
+      "nameZh": "巅峰对决 沃利贝尔",
+      "releaseDate": "2026-10-15",
+      "version": "7.3b",
+      "patchStart": "2026-10-14",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10009:2",
+      "name": "Volcanic Wukong",
+      "nameZh": "三昧真火 孙悟空",
+      "releaseDate": "2020-12-24",
+      "version": "1.1",
+      "patchStart": "2020-12-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10009:4",
+      "name": "General Wukong",
+      "nameZh": "斗战胜佛 孙悟空",
+      "releaseDate": "2020-12-24",
+      "version": "1.1",
+      "patchStart": "2020-12-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10051:5",
+      "name": "Elderwood Xayah",
+      "nameZh": "永恒之森 霞",
+      "releaseDate": "2024-12-12",
+      "version": "5.3c",
+      "patchStart": "2024-12-04",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10051:12",
+      "name": "Prestige Brave Phoenix Xayah",
+      "nameZh": "至臻 神凰行者 霞",
+      "releaseDate": "2026-10-16",
+      "version": "7.3b",
+      "patchStart": "2026-10-14",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10016:2",
+      "name": "Warring Kingdoms Xin Zhao",
+      "nameZh": "赵云 子龙 赵信",
+      "releaseDate": "2021-02-24",
+      "version": "2.1",
+      "patchStart": "2021-02-01",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10037:16",
+      "name": "Crystal Rose Yasuo",
+      "nameZh": "水晶玫瑰 亚索",
+      "releaseDate": "2026-08-14",
+      "version": "7.2c",
+      "patchStart": "2026-08-12",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10069:11",
+      "name": "Prestige Select High Noon Yone",
+      "nameZh": "臻藏 西部魔影 永恩",
+      "releaseDate": "2026-10-16",
+      "version": "7.3b",
+      "patchStart": "2026-10-14",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10148:1",
+      "name": "Weather Entity Yunara",
+      "nameZh": "天棱闪弹 芸阿娜",
+      "releaseDate": "2026-07-09",
+      "version": "7.2",
+      "patchStart": "2026-07-08",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:wiki:ziggs:foodspirits",
+      "name": "Food Spirits Ziggs",
+      "nameZh": "Food Spirits Ziggs",
+      "releaseDate": "2026-01-22",
+      "version": "7.0",
+      "patchStart": "2026-01-21",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10014:7",
+      "name": "Cyber Pop Zoe",
+      "nameZh": "赛博潮流 佐伊",
+      "releaseDate": "2026-04-09",
+      "version": "7.1",
+      "patchStart": "2026-04-07",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:10063:6",
+      "name": "Prestige Battle Queen Zyra",
+      "nameZh": "Prestige Battle Queen Zyra",
+      "releaseDate": "2026-10-23",
+      "version": "7.3c",
+      "patchStart": "2026-10-21",
+      "reason": "missing-patch-record"
+    }
+  ],
+  "regionalTotal": 6,
+  "regional": [
+    {
+      "id": "wr:10018:10",
+      "name": "Chromacrash Jinx (Special Edition)",
+      "nameZh": "光谱幻影 金克丝",
+      "catalogDate": "2022-12-08",
+      "distribution": "Event (China Exclusive)",
+      "reason": "region-unconfirmed",
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jinx_ChromacrashSpecialEditionSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10057:4",
+      "name": "Dawnbringer Viego Mythic Chroma",
+      "nameZh": "黎明使者 破晓之殇 佛耶戈",
+      "catalogDate": null,
+      "distribution": "500 Orange Gemstones (China Exclusive)",
+      "reason": "region-unconfirmed",
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/viego/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Viego_DawnbringerMythicChromaSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10071:14",
+      "name": "Dunkmaster Darius Exquisite Edition",
+      "nameZh": "湖人神话 德莱厄斯",
+      "catalogDate": null,
+      "distribution": "NBA Collab Event 2026 (China Exclusive)",
+      "reason": "region-unconfirmed",
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Darius_DunkmasterExquisiteEditionSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10056:12",
+      "name": "Dunkmaster Jarvan IV",
+      "nameZh": "勇士辉煌 嘉文四世",
+      "catalogDate": null,
+      "distribution": "NBA Collab Event 2026 (China Exclusive)",
+      "reason": "region-unconfirmed",
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Jarvan_IV_DunkmasterSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10035:5",
+      "name": "Dunkmaster Mordekaiser",
+      "nameZh": "凯尔特人传奇 莫德凯撒",
+      "catalogDate": null,
+      "distribution": "NBA Collab Event 2026 (China Exclusive)",
+      "reason": "region-unconfirmed",
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Mordekaiser_DunkmasterSkin_WR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "wr:10079:16",
+      "name": "Elf Forest Ashe",
+      "nameZh": "仙灵之息：夜之辉 艾希",
+      "catalogDate": "2026-02-16",
+      "distribution": "Unknown (China Exclusive)",
+      "reason": "region-unconfirmed",
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Ashe_ElfForestSkin_WR.jpg"
+        }
+      ]
+    }
+  ]
+}

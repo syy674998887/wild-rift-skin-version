@@ -1,0 +1,10 @@
+/dist/
+/.cache/
+/.venv/
+/build/
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.tmp
+Thumbs.db
+Desktop.ini

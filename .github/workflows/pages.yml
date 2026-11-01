@@ -1,0 +1,96 @@
+name: Update data and deploy Wild Rift archive
+on:
+  schedule:
+    - cron: '34 12 * * *'
+      timezone: America/New_York
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      refresh_data:
+        description: Refresh public Wild Rift sources before building
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: wild-rift-skin-version-pages
+  queue: max
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      pages: read
+      actions: read
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+      - name: Check update policy
+        id: policy
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REFRESH_DATA: ${{ inputs.refresh_data }}
+          PYTHONPATH: ${{ github.workspace }}/src
+        run: python -B -m wild_rift_skin_version.workflow_policy
+      - name: Update skin data
+        id: sync
+        if: steps.policy.outputs.update == 'true'
+        run: |
+          python -B skin_update.py
+          echo "data_updated_at=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> "$GITHUB_OUTPUT"
+      - name: Update SkinSpotlights links
+        if: steps.policy.outputs.update == 'true'
+        # Keep the saved catalog if YouTube is unavailable.
+        continue-on-error: true
+        env:
+          PYTHONPATH: ${{ github.workspace }}/src
+        run: python -B -m wild_rift_skin_version.spotlights
+      - name: Run tests
+        env:
+          PYTHONPATH: ${{ github.workspace }}/src
+        run: python -B -m unittest discover -s tests -q
+      - name: Build static site
+        env:
+          WR_DATA_UPDATED_AT: ${{ steps.sync.outputs.data_updated_at || steps.policy.outputs.data_updated_at }}
+        run: python -B build_site.py
+      - name: Commit updated data
+        if: steps.policy.outputs.update == 'true'
+        shell: bash
+        run: |
+          git add -- data/skins.json data/verification_report.json data/skin_spotlights.json
+          if git diff --cached --quiet; then
+            echo 'Skin data is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'data: update Wild Rift skin archive'
+          git push origin HEAD:main
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5
