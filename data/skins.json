@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "game": "wild-rift",
   "region": "international",
-  "dataUpdatedAt": "2026-10-31T21:55:58.255Z",
+  "dataUpdatedAt": "2026-11-03T00:03:22.803Z",
   "totalSkins": 919,
   "totalChampions": 143,
   "verifiedSkins": 690,
@@ -1739,7 +1739,7 @@
     {
       "id": "wr:10038:14",
       "name": "K/DA HEATBRINGER Ahri",
-      "nameZh": "K/DA HEATBRINGER Ahri",
+      "nameZh": "K/DA Heatbringer 阿狸",
       "aliases": [],
       "champion": "Ahri",
       "championZh": "阿狸",
@@ -1748,7 +1748,7 @@
       "skinNumber": 14,
       "wikiChampionId": 10038,
       "wikiSkinId": 14,
-      "cnSkinId": null,
+      "cnSkinId": "1003815",
       "version": "upcoming",
       "plannedVersion": null,
       "status": "upcoming",
@@ -1762,12 +1762,15 @@
         "loading": "https://wiki.leagueoflegends.com/en-us/images/Ahri_KDAHEATBRINGERLoading_WR.png?865f9",
         "tile": "https://wiki.leagueoflegends.com/en-us/images/Ahri_KDAHEATBRINGERSquare_WR.png?3dbb4"
       },
-      "artFallback": {},
+      "artFallback": {
+        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_14.jpg",
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003815.jpg"
+      },
       "artPending": false,
       "artSource": "League Wiki (Wild Rift)",
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
+      "rarity": "Epic",
+      "rarityRegion": "cn",
+      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
       "legacy": false,
       "availability": "Upcoming",
       "distribution": null,
@@ -1778,12 +1781,17 @@
         "K/DA"
       ],
       "sources": [
-        "wiki"
+        "wiki",
+        "tencent"
       ],
       "sourceLinks": [
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
         },
         {
           "label": "Wiki 原画",
@@ -1795,7 +1803,7 @@
     {
       "id": "wr:10031:15",
       "name": "K/DA HEATBRINGER Akali",
-      "nameZh": "K/DA HEATBRINGER Akali",
+      "nameZh": "K/DA Heatbringer 阿卡丽",
       "aliases": [],
       "champion": "Akali",
       "championZh": "阿卡丽",
@@ -1804,7 +1812,7 @@
       "skinNumber": 15,
       "wikiChampionId": 10031,
       "wikiSkinId": 15,
-      "cnSkinId": null,
+      "cnSkinId": "1003116",
       "version": "upcoming",
       "plannedVersion": null,
       "status": "upcoming",
@@ -1818,12 +1826,15 @@
         "loading": "https://wiki.leagueoflegends.com/en-us/images/Akali_KDAHEATBRINGERLoading_WR.png?1fa1a",
         "tile": "https://wiki.leagueoflegends.com/en-us/images/Akali_KDAHEATBRINGERSquare_WR.png?59e38"
       },
-      "artFallback": {},
+      "artFallback": {
+        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Akali_15.jpg",
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003116.png"
+      },
       "artPending": false,
       "artSource": "League Wiki (Wild Rift)",
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
+      "rarity": "Legendary",
+      "rarityRegion": "cn",
+      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
       "legacy": false,
       "availability": "Upcoming",
       "distribution": null,
@@ -1834,12 +1845,17 @@
         "K/DA"
       ],
       "sources": [
-        "wiki"
+        "wiki",
+        "tencent"
       ],
       "sourceLinks": [
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
         },
         {
           "label": "Wiki 原画",
@@ -1851,7 +1867,7 @@
     {
       "id": "wr:10029:8",
       "name": "K/DA HEATBRINGER Evelynn",
-      "nameZh": "K/DA HEATBRINGER Evelynn",
+      "nameZh": "K/DA Heatbringer 伊芙琳",
       "aliases": [],
       "champion": "Evelynn",
       "championZh": "伊芙琳",
@@ -1860,7 +1876,7 @@
       "skinNumber": 8,
       "wikiChampionId": 10029,
       "wikiSkinId": 8,
-      "cnSkinId": null,
+      "cnSkinId": "1002909",
       "version": "upcoming",
       "plannedVersion": null,
       "status": "upcoming",
@@ -1874,12 +1890,15 @@
         "loading": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_KDAHEATBRINGERLoading_WR.png?0111f",
         "tile": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_KDAHEATBRINGERSquare_WR.png?eabb6"
       },
-      "artFallback": {},
+      "artFallback": {
+        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_8.jpg",
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002909.png"
+      },
       "artPending": false,
       "artSource": "League Wiki (Wild Rift)",
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
+      "rarity": "Epic",
+      "rarityRegion": "cn",
+      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
       "legacy": false,
       "availability": "Upcoming",
       "distribution": null,
@@ -1890,12 +1909,17 @@
         "K/DA"
       ],
       "sources": [
-        "wiki"
+        "wiki",
+        "tencent"
       ],
       "sourceLinks": [
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
         },
         {
           "label": "Wiki 原画",
@@ -1907,7 +1931,7 @@
     {
       "id": "wr:10026:14",
       "name": "K/DA HEATBRINGER Kai'Sa",
-      "nameZh": "K/DA HEATBRINGER Kai'Sa",
+      "nameZh": "K/DA Heatbringer 卡莎",
       "aliases": [],
       "champion": "Kai'Sa",
       "championZh": "卡莎",
@@ -1916,7 +1940,7 @@
       "skinNumber": 14,
       "wikiChampionId": 10026,
       "wikiSkinId": 14,
-      "cnSkinId": null,
+      "cnSkinId": "1002615",
       "version": "upcoming",
       "plannedVersion": null,
       "status": "upcoming",
@@ -1930,12 +1954,15 @@
         "loading": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_KDAHEATBRINGERLoading_WR.png?7a68a",
         "tile": "https://wiki.leagueoflegends.com/en-us/images/Kai%27Sa_KDAHEATBRINGERSquare_WR.png?2fc6a"
       },
-      "artFallback": {},
+      "artFallback": {
+        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kaisa_14.jpg",
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002615.jpg"
+      },
       "artPending": false,
       "artSource": "League Wiki (Wild Rift)",
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
+      "rarity": "Epic",
+      "rarityRegion": "cn",
+      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
       "legacy": false,
       "availability": "Upcoming",
       "distribution": null,
@@ -1946,12 +1973,17 @@
         "K/DA"
       ],
       "sources": [
-        "wiki"
+        "wiki",
+        "tencent"
       ],
       "sourceLinks": [
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
         },
         {
           "label": "Wiki 原画",
@@ -2264,7 +2296,7 @@
     {
       "id": "wr:10029:9",
       "name": "Prestige K/DA HEATBRINGER Evelynn",
-      "nameZh": "Prestige K/DA HEATBRINGER Evelynn",
+      "nameZh": "至臻 K/DA Heatbringer 伊芙琳",
       "aliases": [],
       "champion": "Evelynn",
       "championZh": "伊芙琳",
@@ -2273,7 +2305,7 @@
       "skinNumber": 9,
       "wikiChampionId": 10029,
       "wikiSkinId": 9,
-      "cnSkinId": null,
+      "cnSkinId": "1002910",
       "version": "upcoming",
       "plannedVersion": null,
       "status": "upcoming",
@@ -2287,12 +2319,15 @@
         "loading": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_PrestigeKDAHEATBRINGERLoading_WR.png?b59c7",
         "tile": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_PrestigeKDAHEATBRINGERSquare_WR.png?dc440"
       },
-      "artFallback": {},
+      "artFallback": {
+        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_9.jpg",
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002910.png"
+      },
       "artPending": false,
       "artSource": "League Wiki (Wild Rift)",
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
+      "rarity": "Limited",
+      "rarityRegion": "cn",
+      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
       "legacy": false,
       "availability": "Upcoming",
       "distribution": "1000 Orange Gemstones",
@@ -2303,12 +2338,17 @@
         "K/DA"
       ],
       "sources": [
-        "wiki"
+        "wiki",
+        "tencent"
       ],
       "sourceLinks": [
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
         },
         {
           "label": "Wiki 原画",
@@ -87341,7 +87381,7 @@
     },
     "championIndex": "https://wildrift.leagueoflegends.com/en-us/champions/",
     "localization": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
-    "cnFileTime": "2026-10-29 15:55:36",
+    "cnFileTime": "2026-11-02 16:40:08",
     "patchPages": 132,
     "officialPatchPages": 149
   },
