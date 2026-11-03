@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "game": "wild-rift",
   "region": "international",
-  "dataUpdatedAt": "2026-11-03T00:03:22.803Z",
+  "dataUpdatedAt": "2026-11-03T22:30:25.725Z",
   "totalSkins": 919,
   "totalChampions": 143,
   "verifiedSkins": 690,
@@ -1683,7 +1683,7 @@
     {
       "id": "wr:10038:15",
       "name": "K/DA Gilded Ahri",
-      "nameZh": "K/DA Gilded Ahri",
+      "nameZh": "K/DA Gilded 阿狸",
       "aliases": [],
       "champion": "Ahri",
       "championZh": "阿狸",
@@ -1692,7 +1692,7 @@
       "skinNumber": 15,
       "wikiChampionId": 10038,
       "wikiSkinId": 15,
-      "cnSkinId": null,
+      "cnSkinId": "1003816",
       "version": "upcoming",
       "plannedVersion": null,
       "status": "upcoming",
@@ -1706,12 +1706,15 @@
         "loading": "https://wiki.leagueoflegends.com/en-us/images/Ahri_KDAGildedLoading_WR.png?1f16c",
         "tile": "https://wiki.leagueoflegends.com/en-us/images/Ahri_KDAGildedSquare_WR.png?7da2a"
       },
-      "artFallback": {},
+      "artFallback": {
+        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_15.jpg",
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003816.png"
+      },
       "artPending": false,
       "artSource": "League Wiki (Wild Rift)",
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
+      "rarity": "Ultimate",
+      "rarityRegion": "cn",
+      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
       "legacy": false,
       "availability": "Upcoming",
       "distribution": "Path of Awakening 2026 Event, ??? Awakening Points. Must own K/DA HEATBRINGER Ahri.",
@@ -1722,12 +1725,17 @@
         "K/DA"
       ],
       "sources": [
-        "wiki"
+        "wiki",
+        "tencent"
       ],
       "sourceLinks": [
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
         },
         {
           "label": "Wiki 原画",
@@ -1995,7 +2003,7 @@
     {
       "id": "wr:10038:16",
       "name": "K/DA Lollipop Ahri",
-      "nameZh": "K/DA Lollipop Ahri",
+      "nameZh": "K/DA Lollipop 阿狸",
       "aliases": [],
       "champion": "Ahri",
       "championZh": "阿狸",
@@ -2004,7 +2012,7 @@
       "skinNumber": 16,
       "wikiChampionId": 10038,
       "wikiSkinId": 16,
-      "cnSkinId": null,
+      "cnSkinId": "1003817",
       "version": "upcoming",
       "plannedVersion": null,
       "status": "upcoming",
@@ -2018,12 +2026,15 @@
         "loading": "https://wiki.leagueoflegends.com/en-us/images/Ahri_KDALollipopLoading_WR.png?fb285",
         "tile": "https://wiki.leagueoflegends.com/en-us/images/Ahri_KDALollipopSquare_WR.png?35bc2"
       },
-      "artFallback": {},
+      "artFallback": {
+        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_16.jpg",
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003817.png"
+      },
       "artPending": false,
       "artSource": "League Wiki (Wild Rift)",
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
+      "rarity": "Ultimate",
+      "rarityRegion": "cn",
+      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
       "legacy": false,
       "availability": "Upcoming",
       "distribution": "Path of Awakening 2026 Event, ??? Awakening Points. Must own K/DA HEATBRINGER Ahri.",
@@ -2034,12 +2045,17 @@
         "K/DA"
       ],
       "sources": [
-        "wiki"
+        "wiki",
+        "tencent"
       ],
       "sourceLinks": [
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
         },
         {
           "label": "Wiki 原画",
@@ -2051,7 +2067,7 @@
     {
       "id": "wr:10038:17",
       "name": "K/DA Lumen Ahri",
-      "nameZh": "K/DA Lumen Ahri",
+      "nameZh": "K/DA Lumen 阿狸",
       "aliases": [],
       "champion": "Ahri",
       "championZh": "阿狸",
@@ -2060,7 +2076,7 @@
       "skinNumber": 17,
       "wikiChampionId": 10038,
       "wikiSkinId": 17,
-      "cnSkinId": null,
+      "cnSkinId": "1003818",
       "version": "upcoming",
       "plannedVersion": null,
       "status": "upcoming",
@@ -2074,12 +2090,15 @@
         "loading": "https://wiki.leagueoflegends.com/en-us/images/Ahri_KDALumenLoading_WR.png?dca80",
         "tile": "https://wiki.leagueoflegends.com/en-us/images/Ahri_KDALumenSquare_WR.png?655e4"
       },
-      "artFallback": {},
+      "artFallback": {
+        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_17.jpg",
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003818.png"
+      },
       "artPending": false,
       "artSource": "League Wiki (Wild Rift)",
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
+      "rarity": "Ultimate",
+      "rarityRegion": "cn",
+      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
       "legacy": false,
       "availability": "Upcoming",
       "distribution": "Path of Awakening 2026 Event, ??? Awakening Points. Must own K/DA HEATBRINGER Ahri.",
@@ -2090,12 +2109,17 @@
         "K/DA"
       ],
       "sources": [
-        "wiki"
+        "wiki",
+        "tencent"
       ],
       "sourceLinks": [
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4091395"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
         },
         {
           "label": "Wiki 原画",
@@ -3824,9 +3848,9 @@
       "imageFallback": null,
       "art": {
         "uncentered": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8ea0835fbff89213962fd0a6d3c579e7cef7ffdc-1280x720.jpg?accountingTag=WR",
-        "loading": "https://wiki.leagueoflegends.com/en-us/images/Zyra_PrestigeBattleQueenLoading_WR.png?aee49",
+        "loading": "https://wiki.leagueoflegends.com/en-us/images/Zyra_PrestigeBattleQueenLoading_WR.png?3f224",
         "tile": "https://wiki.leagueoflegends.com/en-us/images/Zyra_PrestigeBattleQueenSquare_WR.png?7f979",
-        "centered": "https://wiki.leagueoflegends.com/en-us/images/Zyra_PrestigeBattleQueenSkin_WR.png?5b58e"
+        "centered": "https://wiki.leagueoflegends.com/en-us/images/Zyra_PrestigeBattleQueenSkin_WR.jpg?52be7"
       },
       "artFallback": {},
       "artPending": false,
@@ -3858,7 +3882,7 @@
         },
         {
           "label": "Wiki 原画",
-          "url": "https://wiki.leagueoflegends.com/en-us/File:Zyra_PrestigeBattleQueenSkin_WR.png"
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Zyra_PrestigeBattleQueenSkin_WR.jpg"
         }
       ],
       "verificationReason": null
@@ -87381,7 +87405,7 @@
     },
     "championIndex": "https://wildrift.leagueoflegends.com/en-us/champions/",
     "localization": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
-    "cnFileTime": "2026-11-02 16:40:08",
+    "cnFileTime": "2026-11-03 14:25:05",
     "patchPages": 132,
     "officialPatchPages": 149
   },
