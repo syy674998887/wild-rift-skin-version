@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "game": "wild-rift",
   "region": "international",
-  "dataUpdatedAt": "2026-11-04T22:49:13.851Z",
+  "dataUpdatedAt": "2026-11-05T22:50:05.160Z",
   "totalSkins": 927,
   "totalChampions": 143,
   "verifiedSkins": 689,
@@ -10,8 +10,14 @@
   "unverifiedSkins": 96,
   "versions": [
     {
+      "version": "7.3e",
+      "count": 8,
+      "releaseDate": null,
+      "announcementDate": "2026-11-04"
+    },
+    {
       "version": "7.3d",
-      "count": 11,
+      "count": 3,
       "releaseDate": null,
       "announcementDate": "2026-10-28"
     },
@@ -2811,68 +2817,6 @@
       "verificationReason": "region-unconfirmed"
     },
     {
-      "id": "wr:10081:10",
-      "name": "Chibi Alistar",
-      "nameZh": "Chibi Alistar",
-      "aliases": [],
-      "champion": "Alistar",
-      "championZh": "阿利斯塔",
-      "championId": 10081,
-      "championAlias": "alistar",
-      "skinNumber": 10,
-      "wikiChampionId": 10081,
-      "wikiSkinId": 10,
-      "cnSkinId": null,
-      "version": "7.3d",
-      "plannedVersion": null,
-      "status": "released",
-      "releaseDate": "2026-10-30",
-      "reportedReleaseDate": null,
-      "patchEvidence": {
-        "version": "7.3d",
-        "kind": "inferred",
-        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
-        "title": "Wild Rift Patch Notes 7.3d",
-        "patchDate": "2026-10-28"
-      },
-      "image": "https://wiki.leagueoflegends.com/en-us/images/Alistar_ChibiSkin_WR.jpg?11adc",
-      "imageFallback": null,
-      "art": {
-        "uncentered": "https://wiki.leagueoflegends.com/en-us/images/Alistar_ChibiSkin_WR.jpg?11adc",
-        "loading": "https://wiki.leagueoflegends.com/en-us/images/Alistar_ChibiLoading_WR.png?e3d3a",
-        "tile": "https://wiki.leagueoflegends.com/en-us/images/Alistar_ChibiSquare_WR.png?509c8"
-      },
-      "artFallback": {},
-      "artPending": false,
-      "artSource": "League Wiki (Wild Rift)",
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
-      "legacy": false,
-      "availability": "Upcoming",
-      "distribution": null,
-      "regionAvailability": "unspecified",
-      "chromas": [],
-      "chromaCoverage": "not-documented",
-      "skinLineIds": [
-        "Trick-or-Treat"
-      ],
-      "sources": [
-        "wiki"
-      ],
-      "sourceLinks": [
-        {
-          "label": "Wiki",
-          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4092627"
-        },
-        {
-          "label": "Wiki 原画",
-          "url": "https://wiki.leagueoflegends.com/en-us/File:Alistar_ChibiSkin_WR.jpg"
-        }
-      ],
-      "verificationReason": null
-    },
-    {
       "id": "wr:10038:15",
       "name": "K/DA Gilded Ahri",
       "nameZh": "K/DA Gilded 阿狸",
@@ -2887,17 +2831,17 @@
       "wikiChampionId": 10038,
       "wikiSkinId": 15,
       "cnSkinId": "1003816",
-      "version": "7.3d",
+      "version": "7.3e",
       "plannedVersion": null,
       "status": "released",
       "releaseDate": "2026-11-04",
       "reportedReleaseDate": null,
       "patchEvidence": {
-        "version": "7.3d",
+        "version": "7.3e",
         "kind": "inferred",
-        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
-        "title": "Wild Rift Patch Notes 7.3d",
-        "patchDate": "2026-10-28"
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
       },
       "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/094e6e5a63252814ff56fad0c3f733457d9e4441-1280x720.jpg?accountingTag=WR",
       "imageFallback": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_15.jpg",
@@ -2965,17 +2909,17 @@
       "wikiChampionId": 10038,
       "wikiSkinId": 14,
       "cnSkinId": "1003815",
-      "version": "7.3d",
+      "version": "7.3e",
       "plannedVersion": null,
       "status": "released",
       "releaseDate": "2026-11-04",
       "reportedReleaseDate": null,
       "patchEvidence": {
-        "version": "7.3d",
+        "version": "7.3e",
         "kind": "inferred",
-        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
-        "title": "Wild Rift Patch Notes 7.3d",
-        "patchDate": "2026-10-28"
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
       },
       "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1663dee06ae3b153e8580fbdf2ad17264bb7d86a-1280x720.jpg?accountingTag=WR",
       "imageFallback": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_14.jpg",
@@ -3043,17 +2987,17 @@
       "wikiChampionId": 10031,
       "wikiSkinId": 15,
       "cnSkinId": "1003116",
-      "version": "7.3d",
+      "version": "7.3e",
       "plannedVersion": null,
       "status": "released",
       "releaseDate": "2026-11-04",
       "reportedReleaseDate": null,
       "patchEvidence": {
-        "version": "7.3d",
+        "version": "7.3e",
         "kind": "inferred",
-        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
-        "title": "Wild Rift Patch Notes 7.3d",
-        "patchDate": "2026-10-28"
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
       },
       "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/446001c0f0a832b05f8e320b12327a8654c8bef0-1280x720.jpg?accountingTag=WR",
       "imageFallback": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Akali_15.jpg",
@@ -3121,17 +3065,17 @@
       "wikiChampionId": 10029,
       "wikiSkinId": 8,
       "cnSkinId": "1002909",
-      "version": "7.3d",
+      "version": "7.3e",
       "plannedVersion": null,
       "status": "released",
       "releaseDate": "2026-11-04",
       "reportedReleaseDate": null,
       "patchEvidence": {
-        "version": "7.3d",
+        "version": "7.3e",
         "kind": "inferred",
-        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
-        "title": "Wild Rift Patch Notes 7.3d",
-        "patchDate": "2026-10-28"
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
       },
       "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a3e435274960121e8be4a126daf368e93c025490-1280x720.jpg?accountingTag=WR",
       "imageFallback": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_8.jpg",
@@ -3199,17 +3143,17 @@
       "wikiChampionId": 10026,
       "wikiSkinId": 14,
       "cnSkinId": "1002615",
-      "version": "7.3d",
+      "version": "7.3e",
       "plannedVersion": null,
       "status": "released",
       "releaseDate": "2026-11-04",
       "reportedReleaseDate": null,
       "patchEvidence": {
-        "version": "7.3d",
+        "version": "7.3e",
         "kind": "inferred",
-        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
-        "title": "Wild Rift Patch Notes 7.3d",
-        "patchDate": "2026-10-28"
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
       },
       "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f356fa90f780b1d92113a9ab90ee54ad0da56482-1280x720.jpg?accountingTag=WR",
       "imageFallback": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kaisa_14.jpg",
@@ -3277,17 +3221,17 @@
       "wikiChampionId": 10038,
       "wikiSkinId": 16,
       "cnSkinId": "1003817",
-      "version": "7.3d",
+      "version": "7.3e",
       "plannedVersion": null,
       "status": "released",
       "releaseDate": "2026-11-04",
       "reportedReleaseDate": null,
       "patchEvidence": {
-        "version": "7.3d",
+        "version": "7.3e",
         "kind": "inferred",
-        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
-        "title": "Wild Rift Patch Notes 7.3d",
-        "patchDate": "2026-10-28"
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
       },
       "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/139586967ca056ef09ed99484f50df6e74341760-1280x720.jpg?accountingTag=WR",
       "imageFallback": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_16.jpg",
@@ -3355,17 +3299,17 @@
       "wikiChampionId": 10038,
       "wikiSkinId": 17,
       "cnSkinId": "1003818",
-      "version": "7.3d",
+      "version": "7.3e",
       "plannedVersion": null,
       "status": "released",
       "releaseDate": "2026-11-04",
       "reportedReleaseDate": null,
       "patchEvidence": {
-        "version": "7.3d",
+        "version": "7.3e",
         "kind": "inferred",
-        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
-        "title": "Wild Rift Patch Notes 7.3d",
-        "patchDate": "2026-10-28"
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
       },
       "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/09f4a7223cfb45fceb7a6717fc0b2fdcb70cdcb6-1280x720.jpg?accountingTag=WR",
       "imageFallback": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_17.jpg",
@@ -3414,6 +3358,146 @@
         {
           "label": "Wiki 原画",
           "url": "https://wiki.leagueoflegends.com/en-us/File:Ahri_KDALumenSkin_WR.jpg"
+        }
+      ],
+      "verificationReason": null
+    },
+    {
+      "id": "wr:10029:9",
+      "name": "Prestige K/DA HEATBRINGER Evelynn",
+      "nameZh": "至臻 K/DA Heatbringer 伊芙琳",
+      "aliases": [
+        "PRESTIGE K/DA HEATBRINGER EVELYNN"
+      ],
+      "champion": "Evelynn",
+      "championZh": "伊芙琳",
+      "championId": 10029,
+      "championAlias": "evelynn",
+      "skinNumber": 9,
+      "wikiChampionId": 10029,
+      "wikiSkinId": 9,
+      "cnSkinId": "1002910",
+      "version": "7.3e",
+      "plannedVersion": null,
+      "status": "released",
+      "releaseDate": "2026-11-04",
+      "reportedReleaseDate": null,
+      "patchEvidence": {
+        "version": "7.3e",
+        "kind": "inferred",
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
+      },
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8dbcee09fbcbd0b5787fc68c765024852aa71e79-1280x720.jpg?accountingTag=WR",
+      "imageFallback": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_9.jpg",
+      "art": {
+        "uncentered": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8dbcee09fbcbd0b5787fc68c765024852aa71e79-1280x720.jpg?accountingTag=WR",
+        "loading": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_PrestigeKDAHEATBRINGERLoading_WR.png?b59c7",
+        "tile": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_PrestigeKDAHEATBRINGERSquare_WR.png?dc440",
+        "centered": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_PrestigeKDAHEATBRINGERSkin_WR.jpg?a5011"
+      },
+      "artFallback": {
+        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_9.jpg",
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002910.png"
+      },
+      "artPending": false,
+      "artSource": "Wild Rift official",
+      "rarity": "Limited",
+      "rarityRegion": "cn",
+      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
+      "legacy": false,
+      "availability": "Available",
+      "distribution": "1000 Orange Gemstones",
+      "regionAvailability": "unspecified",
+      "chromas": [],
+      "chromaCoverage": "not-documented",
+      "skinLineIds": [
+        "K/DA"
+      ],
+      "sources": [
+        "wiki",
+        "official",
+        "tencent"
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4092627"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/evelynn/"
+        },
+        {
+          "label": "中文名称 / CN",
+          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Evelynn_PrestigeKDAHEATBRINGERSkin_WR.jpg"
+        }
+      ],
+      "verificationReason": null
+    },
+    {
+      "id": "wr:10081:10",
+      "name": "Chibi Alistar",
+      "nameZh": "Chibi Alistar",
+      "aliases": [],
+      "champion": "Alistar",
+      "championZh": "阿利斯塔",
+      "championId": 10081,
+      "championAlias": "alistar",
+      "skinNumber": 10,
+      "wikiChampionId": 10081,
+      "wikiSkinId": 10,
+      "cnSkinId": null,
+      "version": "7.3d",
+      "plannedVersion": null,
+      "status": "released",
+      "releaseDate": "2026-10-30",
+      "reportedReleaseDate": null,
+      "patchEvidence": {
+        "version": "7.3d",
+        "kind": "inferred",
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
+        "title": "Wild Rift Patch Notes 7.3d",
+        "patchDate": "2026-10-28"
+      },
+      "image": "https://wiki.leagueoflegends.com/en-us/images/Alistar_ChibiSkin_WR.jpg?11adc",
+      "imageFallback": null,
+      "art": {
+        "uncentered": "https://wiki.leagueoflegends.com/en-us/images/Alistar_ChibiSkin_WR.jpg?11adc",
+        "loading": "https://wiki.leagueoflegends.com/en-us/images/Alistar_ChibiLoading_WR.png?e3d3a",
+        "tile": "https://wiki.leagueoflegends.com/en-us/images/Alistar_ChibiSquare_WR.png?509c8"
+      },
+      "artFallback": {},
+      "artPending": false,
+      "artSource": "League Wiki (Wild Rift)",
+      "rarity": null,
+      "rarityRegion": null,
+      "raritySource": null,
+      "legacy": false,
+      "availability": "Upcoming",
+      "distribution": null,
+      "regionAvailability": "unspecified",
+      "chromas": [],
+      "chromaCoverage": "not-documented",
+      "skinLineIds": [
+        "Trick-or-Treat"
+      ],
+      "sources": [
+        "wiki"
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4092627"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Alistar_ChibiSkin_WR.jpg"
         }
       ],
       "verificationReason": null
@@ -3492,84 +3576,6 @@
         {
           "label": "Wiki 原画",
           "url": "https://wiki.leagueoflegends.com/en-us/File:Sion_LittleNightFrightSkin_WR.jpg"
-        }
-      ],
-      "verificationReason": null
-    },
-    {
-      "id": "wr:10029:9",
-      "name": "Prestige K/DA HEATBRINGER Evelynn",
-      "nameZh": "至臻 K/DA Heatbringer 伊芙琳",
-      "aliases": [
-        "PRESTIGE K/DA HEATBRINGER EVELYNN"
-      ],
-      "champion": "Evelynn",
-      "championZh": "伊芙琳",
-      "championId": 10029,
-      "championAlias": "evelynn",
-      "skinNumber": 9,
-      "wikiChampionId": 10029,
-      "wikiSkinId": 9,
-      "cnSkinId": "1002910",
-      "version": "7.3d",
-      "plannedVersion": null,
-      "status": "released",
-      "releaseDate": "2026-11-04",
-      "reportedReleaseDate": null,
-      "patchEvidence": {
-        "version": "7.3d",
-        "kind": "inferred",
-        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3d/",
-        "title": "Wild Rift Patch Notes 7.3d",
-        "patchDate": "2026-10-28"
-      },
-      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8dbcee09fbcbd0b5787fc68c765024852aa71e79-1280x720.jpg?accountingTag=WR",
-      "imageFallback": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_9.jpg",
-      "art": {
-        "uncentered": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8dbcee09fbcbd0b5787fc68c765024852aa71e79-1280x720.jpg?accountingTag=WR",
-        "loading": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_PrestigeKDAHEATBRINGERLoading_WR.png?b59c7",
-        "tile": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_PrestigeKDAHEATBRINGERSquare_WR.png?dc440",
-        "centered": "https://wiki.leagueoflegends.com/en-us/images/Evelynn_PrestigeKDAHEATBRINGERSkin_WR.jpg?a5011"
-      },
-      "artFallback": {
-        "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_9.jpg",
-        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002910.png"
-      },
-      "artPending": false,
-      "artSource": "Wild Rift official",
-      "rarity": "Limited",
-      "rarityRegion": "cn",
-      "raritySource": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
-      "legacy": false,
-      "availability": "Available",
-      "distribution": "1000 Orange Gemstones",
-      "regionAvailability": "unspecified",
-      "chromas": [],
-      "chromaCoverage": "not-documented",
-      "skinLineIds": [
-        "K/DA"
-      ],
-      "sources": [
-        "wiki",
-        "official",
-        "tencent"
-      ],
-      "sourceLinks": [
-        {
-          "label": "Wiki",
-          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4092627"
-        },
-        {
-          "label": "Wild Rift",
-          "url": "https://wildrift.leagueoflegends.com/en-us/champions/evelynn/"
-        },
-        {
-          "label": "中文名称 / CN",
-          "url": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js"
-        },
-        {
-          "label": "Wiki 原画",
-          "url": "https://wiki.leagueoflegends.com/en-us/File:Evelynn_PrestigeKDAHEATBRINGERSkin_WR.jpg"
         }
       ],
       "verificationReason": null
@@ -87527,7 +87533,7 @@
     "localization": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
     "cnFileTime": "2026-11-03 14:25:05",
     "patchPages": 133,
-    "officialPatchPages": 149
+    "officialPatchPages": 150
   },
   "diagnostics": {
     "unmatchedOfficialSkins": [
