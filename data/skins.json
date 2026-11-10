@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "game": "wild-rift",
   "region": "international",
-  "dataUpdatedAt": "2026-11-08T21:22:42.034Z",
+  "dataUpdatedAt": "2026-11-10T22:31:46.488Z",
   "totalSkins": 927,
   "totalChampions": 143,
   "verifiedSkins": 689,
@@ -2085,7 +2085,7 @@
       "nameZh": "Ramen Master Sylas",
       "aliases": [],
       "champion": "Sylas",
-      "championZh": "Sylas",
+      "championZh": "塞拉斯",
       "championId": 10120,
       "championAlias": "sylas",
       "skinNumber": null,
@@ -2943,7 +2943,7 @@
     {
       "id": "wr:10038:14",
       "name": "K/DA HEATBRINGER Ahri",
-      "nameZh": "K/DA Heatbringer 阿狸",
+      "nameZh": "K/DA HEATBRINGER 阿狸",
       "aliases": [
         "K/DA HEATBRINGER AHRI"
       ],
@@ -3021,7 +3021,7 @@
     {
       "id": "wr:10031:15",
       "name": "K/DA HEATBRINGER Akali",
-      "nameZh": "K/DA Heatbringer 阿卡丽",
+      "nameZh": "K/DA HEATBRINGER 阿卡丽",
       "aliases": [
         "K/DA HEATBRINGER AKALI"
       ],
@@ -3099,7 +3099,7 @@
     {
       "id": "wr:10029:8",
       "name": "K/DA HEATBRINGER Evelynn",
-      "nameZh": "K/DA Heatbringer 伊芙琳",
+      "nameZh": "K/DA HEATBRINGER 伊芙琳",
       "aliases": [
         "K/DA HEATBRINGER EVELYNN"
       ],
@@ -3177,7 +3177,7 @@
     {
       "id": "wr:10026:14",
       "name": "K/DA HEATBRINGER Kai'Sa",
-      "nameZh": "K/DA Heatbringer 卡莎",
+      "nameZh": "K/DA HEATBRINGER 卡莎",
       "aliases": [
         "K/DA HEATBRINGER KAI'SA"
       ],
@@ -3411,7 +3411,7 @@
     {
       "id": "wr:10029:9",
       "name": "Prestige K/DA HEATBRINGER Evelynn",
-      "nameZh": "至臻 K/DA Heatbringer 伊芙琳",
+      "nameZh": "至臻 K/DA HEATBRINGER 伊芙琳",
       "aliases": [
         "PRESTIGE K/DA HEATBRINGER EVELYNN"
       ],
@@ -3790,7 +3790,7 @@
       },
       "artFallback": {
         "uncentered": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kalista_5.jpg",
-        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013406.jpg"
+        "loading": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013406.png"
       },
       "artPending": false,
       "artSource": "Wild Rift official",
@@ -87577,7 +87577,7 @@
     },
     "championIndex": "https://wildrift.leagueoflegends.com/en-us/champions/",
     "localization": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
-    "cnFileTime": "2026-11-03 14:25:05",
+    "cnFileTime": "2026-11-10 11:43:15",
     "patchPages": 133,
     "officialPatchPages": 150
   },
