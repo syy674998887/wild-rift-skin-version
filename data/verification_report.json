@@ -2767,7 +2767,7 @@
       ]
     }
   ],
-  "inferredTotal": 142,
+  "inferredTotal": 143,
   "inferred": [
     {
       "id": "wr:10038:14",
@@ -3928,6 +3928,15 @@
       "releaseDate": "2026-09-29",
       "version": "7.3a",
       "patchStart": "2026-09-29",
+      "reason": "missing-patch-record"
+    },
+    {
+      "id": "wr:wiki:viktor:arcanesavior",
+      "name": "Arcane Savior Viktor",
+      "nameZh": "Arcane Savior Viktor",
+      "releaseDate": "2026-11-11",
+      "version": "7.3e",
+      "patchStart": "2026-11-04",
       "reason": "missing-patch-record"
     },
     {

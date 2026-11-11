@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "game": "wild-rift",
   "region": "international",
-  "dataUpdatedAt": "2026-11-10T22:31:46.488Z",
-  "totalSkins": 927,
+  "dataUpdatedAt": "2026-11-11T23:40:41.723Z",
+  "totalSkins": 928,
   "totalChampions": 143,
   "verifiedSkins": 689,
-  "inferredSkins": 142,
+  "inferredSkins": 143,
   "unverifiedSkins": 96,
   "versions": [
     {
       "version": "7.3e",
-      "count": 8,
+      "count": 9,
       "releaseDate": null,
       "announcementDate": "2026-11-04"
     },
@@ -811,7 +811,7 @@
   "upcoming": [
     {
       "version": "upcoming",
-      "count": 15
+      "count": 14
     }
   ],
   "regionalSkins": 6,
@@ -1588,54 +1588,6 @@
     }
   ],
   "skins": [
-    {
-      "id": "wr:wiki:viktor:arcanesavior",
-      "name": "Arcane Savior Viktor",
-      "nameZh": "Arcane Savior Viktor",
-      "aliases": [],
-      "champion": "Viktor",
-      "championZh": "维克托",
-      "championId": 10144,
-      "championAlias": "viktor",
-      "skinNumber": null,
-      "wikiChampionId": 10144,
-      "wikiSkinId": null,
-      "cnSkinId": null,
-      "version": "upcoming",
-      "plannedVersion": null,
-      "status": "upcoming",
-      "releaseDate": "2026-11-11",
-      "reportedReleaseDate": null,
-      "patchEvidence": null,
-      "image": null,
-      "imageFallback": null,
-      "art": {},
-      "artFallback": {},
-      "artPending": true,
-      "artSource": null,
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
-      "legacy": false,
-      "availability": "Upcoming",
-      "distribution": null,
-      "regionAvailability": "unspecified",
-      "chromas": [],
-      "chromaCoverage": "not-documented",
-      "skinLineIds": [
-        "Arcane"
-      ],
-      "sources": [
-        "wiki"
-      ],
-      "sourceLinks": [
-        {
-          "label": "Wiki",
-          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4093163"
-        }
-      ],
-      "verificationReason": "upcoming"
-    },
     {
       "id": "wr:10096:7",
       "name": "Chem Prof Singed",
@@ -2861,6 +2813,69 @@
       "regionalCatalogDate": "2026-02-16",
       "catalogVersion": null,
       "verificationReason": "region-unconfirmed"
+    },
+    {
+      "id": "wr:wiki:viktor:arcanesavior",
+      "name": "Arcane Savior Viktor",
+      "nameZh": "Arcane Savior Viktor",
+      "aliases": [
+        "ARCANE SAVIOR VIKTOR"
+      ],
+      "champion": "Viktor",
+      "championZh": "维克托",
+      "championId": 10144,
+      "championAlias": "viktor",
+      "skinNumber": null,
+      "wikiChampionId": 10144,
+      "wikiSkinId": null,
+      "cnSkinId": null,
+      "version": "7.3e",
+      "plannedVersion": null,
+      "status": "released",
+      "releaseDate": "2026-11-11",
+      "reportedReleaseDate": null,
+      "patchEvidence": {
+        "version": "7.3e",
+        "kind": "inferred",
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
+      },
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/95b7b92f0385640007a7a133347a9d5c52a5090b-1280x720.jpg?accountingTag=WR",
+      "imageFallback": null,
+      "art": {
+        "uncentered": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/95b7b92f0385640007a7a133347a9d5c52a5090b-1280x720.jpg?accountingTag=WR"
+      },
+      "artFallback": {},
+      "artPending": false,
+      "artSource": "Wild Rift official",
+      "rarity": null,
+      "rarityRegion": null,
+      "raritySource": null,
+      "legacy": false,
+      "availability": "Upcoming",
+      "distribution": null,
+      "regionAvailability": "unspecified",
+      "chromas": [],
+      "chromaCoverage": "not-documented",
+      "skinLineIds": [
+        "Arcane"
+      ],
+      "sources": [
+        "wiki",
+        "official"
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4093163"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/viktor/"
+        }
+      ],
+      "verificationReason": null
     },
     {
       "id": "wr:10038:15",
@@ -87642,7 +87657,6 @@
       "wr:wiki:heimerdinger:mrsnoozledinger",
       "wr:wiki:lillia:prestigewinterblessed",
       "wr:wiki:sylas:ramenmaster",
-      "wr:wiki:viktor:arcanesavior",
       "wr:wiki:xinzhao:prestigeselectdawnbringer"
     ],
     "patchDateConflicts": [
