@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "game": "wild-rift",
   "region": "international",
-  "dataUpdatedAt": "2026-11-11T23:40:41.723Z",
-  "totalSkins": 928,
+  "dataUpdatedAt": "2026-11-12T22:54:54.845Z",
+  "totalSkins": 929,
   "totalChampions": 143,
   "verifiedSkins": 689,
-  "inferredSkins": 143,
+  "inferredSkins": 144,
   "unverifiedSkins": 96,
   "versions": [
     {
       "version": "7.3e",
-      "count": 9,
+      "count": 10,
       "releaseDate": null,
       "announcementDate": "2026-11-04"
     },
@@ -811,7 +811,7 @@
   "upcoming": [
     {
       "version": "upcoming",
-      "count": 14
+      "count": 13
     }
   ],
   "regionalSkins": 6,
@@ -2019,54 +2019,6 @@
       "chromaCoverage": "not-documented",
       "skinLineIds": [
         "Winterblessed"
-      ],
-      "sources": [
-        "wiki"
-      ],
-      "sourceLinks": [
-        {
-          "label": "Wiki",
-          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4093163"
-        }
-      ],
-      "verificationReason": "upcoming"
-    },
-    {
-      "id": "wr:wiki:sylas:ramenmaster",
-      "name": "Ramen Master Sylas",
-      "nameZh": "Ramen Master Sylas",
-      "aliases": [],
-      "champion": "Sylas",
-      "championZh": "塞拉斯",
-      "championId": 10120,
-      "championAlias": "sylas",
-      "skinNumber": null,
-      "wikiChampionId": 10120,
-      "wikiSkinId": null,
-      "cnSkinId": null,
-      "version": "upcoming",
-      "plannedVersion": null,
-      "status": "upcoming",
-      "releaseDate": "2026-11-12",
-      "reportedReleaseDate": null,
-      "patchEvidence": null,
-      "image": null,
-      "imageFallback": null,
-      "art": {},
-      "artFallback": {},
-      "artPending": true,
-      "artSource": null,
-      "rarity": null,
-      "rarityRegion": null,
-      "raritySource": null,
-      "legacy": false,
-      "availability": "Upcoming",
-      "distribution": null,
-      "regionAvailability": "unspecified",
-      "chromas": [],
-      "chromaCoverage": "not-documented",
-      "skinLineIds": [
-        "Day Job"
       ],
       "sources": [
         "wiki"
@@ -3497,6 +3449,69 @@
         {
           "label": "Wiki 原画",
           "url": "https://wiki.leagueoflegends.com/en-us/File:Evelynn_PrestigeKDAHEATBRINGERSkin_WR.jpg"
+        }
+      ],
+      "verificationReason": null
+    },
+    {
+      "id": "wr:wiki:sylas:ramenmaster",
+      "name": "Ramen Master Sylas",
+      "nameZh": "Ramen Master Sylas",
+      "aliases": [
+        "RAMEN MASTER SYLAS"
+      ],
+      "champion": "Sylas",
+      "championZh": "塞拉斯",
+      "championId": 10120,
+      "championAlias": "sylas",
+      "skinNumber": null,
+      "wikiChampionId": 10120,
+      "wikiSkinId": null,
+      "cnSkinId": null,
+      "version": "7.3e",
+      "plannedVersion": null,
+      "status": "released",
+      "releaseDate": "2026-11-12",
+      "reportedReleaseDate": null,
+      "patchEvidence": {
+        "version": "7.3e",
+        "kind": "inferred",
+        "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3e/",
+        "title": "Wild Rift Patch Notes 7.3e",
+        "patchDate": "2026-11-04"
+      },
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9d8883f3f8169d7fd31af0e85486b21fa7e087b4-1280x720.jpg?accountingTag=WR",
+      "imageFallback": null,
+      "art": {
+        "uncentered": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9d8883f3f8169d7fd31af0e85486b21fa7e087b4-1280x720.jpg?accountingTag=WR"
+      },
+      "artFallback": {},
+      "artPending": false,
+      "artSource": "Wild Rift official",
+      "rarity": null,
+      "rarityRegion": null,
+      "raritySource": null,
+      "legacy": false,
+      "availability": "Upcoming",
+      "distribution": null,
+      "regionAvailability": "unspecified",
+      "chromas": [],
+      "chromaCoverage": "not-documented",
+      "skinLineIds": [
+        "Day Job"
+      ],
+      "sources": [
+        "wiki",
+        "official"
+      ],
+      "sourceLinks": [
+        {
+          "label": "Wiki",
+          "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4093163"
+        },
+        {
+          "label": "Wild Rift",
+          "url": "https://wildrift.leagueoflegends.com/en-us/champions/sylas/"
         }
       ],
       "verificationReason": null
@@ -87656,7 +87671,6 @@
       "wr:wiki:fiora:soaringswordexquisiteedition",
       "wr:wiki:heimerdinger:mrsnoozledinger",
       "wr:wiki:lillia:prestigewinterblessed",
-      "wr:wiki:sylas:ramenmaster",
       "wr:wiki:xinzhao:prestigeselectdawnbringer"
     ],
     "patchDateConflicts": [
