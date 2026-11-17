@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "game": "wild-rift",
   "region": "international",
-  "dataUpdatedAt": "2026-11-15T22:02:31.610Z",
+  "dataUpdatedAt": "2026-11-17T23:59:09.864Z",
   "totalSkins": 929,
   "totalChampions": 143,
   "verifiedSkins": 689,
@@ -1669,12 +1669,16 @@
       "releaseDate": "2026-11-20",
       "reportedReleaseDate": null,
       "patchEvidence": null,
-      "image": null,
+      "image": "https://wiki.leagueoflegends.com/en-us/images/Graves_FowlPlaySkin_WR.jpg?6cb70",
       "imageFallback": null,
-      "art": {},
+      "art": {
+        "uncentered": "https://wiki.leagueoflegends.com/en-us/images/Graves_FowlPlaySkin_WR.jpg?6cb70",
+        "loading": "https://wiki.leagueoflegends.com/en-us/images/Graves_FowlPlayLoading_WR.png?0915e",
+        "tile": "https://wiki.leagueoflegends.com/en-us/images/Graves_FowlPlaySquare_WR.png?92024"
+      },
       "artFallback": {},
-      "artPending": true,
-      "artSource": null,
+      "artPending": false,
+      "artSource": "League Wiki (Wild Rift)",
       "rarity": null,
       "rarityRegion": null,
       "raritySource": null,
@@ -1692,6 +1696,10 @@
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4094216"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Graves_FowlPlaySkin_WR.jpg"
         }
       ],
       "verificationReason": "upcoming"
@@ -2024,12 +2032,16 @@
       "releaseDate": "2026-11-20",
       "reportedReleaseDate": null,
       "patchEvidence": null,
-      "image": null,
+      "image": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_MindControlSkin_WR.jpg?6946a",
       "imageFallback": null,
-      "art": {},
+      "art": {
+        "uncentered": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_MindControlSkin_WR.jpg?6946a",
+        "loading": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_MindControlLoading_WR.png?02734",
+        "tile": "https://wiki.leagueoflegends.com/en-us/images/Kassadin_MindControlSquare_WR.png?064ef"
+      },
       "artFallback": {},
-      "artPending": true,
-      "artSource": null,
+      "artPending": false,
+      "artSource": "League Wiki (Wild Rift)",
       "rarity": null,
       "rarityRegion": null,
       "raritySource": null,
@@ -2049,6 +2061,10 @@
         {
           "label": "Wiki",
           "url": "https://wiki.leagueoflegends.com/en-us/index.php?title=Module%3ASkinDataWR%2Fdata&oldid=4094216"
+        },
+        {
+          "label": "Wiki 原画",
+          "url": "https://wiki.leagueoflegends.com/en-us/File:Kassadin_MindControlSkin_WR.jpg"
         }
       ],
       "verificationReason": "upcoming"
@@ -87996,8 +88012,6 @@
     "missingArtwork": [
       "wr:wiki:camille:prestigefiendqueller",
       "wr:wiki:fiora:soaringswordexquisiteedition",
-      "wr:wiki:graves:fowlplay",
-      "wr:wiki:kassadin:mindcontrol",
       "wr:wiki:lillia:prestigewinterblessed",
       "wr:wiki:xinzhao:prestigeselectdawnbringer"
     ],
