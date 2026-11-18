@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "game": "wild-rift",
   "region": "international",
-  "dataUpdatedAt": "2026-11-17T23:59:09.864Z",
+  "dataUpdatedAt": "2026-11-18T23:32:31.941Z",
   "totalSkins": 929,
   "totalChampions": 143,
   "verifiedSkins": 689,
@@ -87950,7 +87950,7 @@
     },
     "championIndex": "https://wildrift.leagueoflegends.com/en-us/champions/",
     "localization": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/skins/skins.js",
-    "cnFileTime": "2026-11-10 11:43:15",
+    "cnFileTime": "2026-11-18 11:12:20",
     "patchPages": 133,
     "officialPatchPages": 151
   },
